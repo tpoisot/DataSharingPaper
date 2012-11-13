@@ -1,0 +1,1 @@
+pandoc DataSharing-MS.md -o DataSharing.pdf --bibliography=/home/tpoisot/texmf/bibtex/bib/library.bib
