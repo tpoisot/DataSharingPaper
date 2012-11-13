@@ -99,6 +99,18 @@ more rarely given access to the data during the evaluation process.
 
 # Conclusion
 
+In the last two years, there were an important number of media outbursts, and
+public indignation, about the role of science and scientific conduct, which
+may all have been avoided if the practice of putting data publicly online was
+widespread. The so-called *climategate* [@Jasanoff2010] could have been
+largely averted if all data were made public in the earlier days of the
+affair, as it was later clearly demonstrated that the apparent lack of
+transparency eroded public trust in scientists [@Leiserowitz2010 ;
+@Ravetz2011]. Even more recently, the controversy over a study on the
+carcinogenicity of GM maize [@Seralini2012] was thickened by the refusal of
+both sides (Monsanto and the french research group) to release the full data,
+in addition to many undisclosed conflicts of interests [@Meldolesi2012].
+
 # List of possible boxes
 
 - The story of the BCI data
