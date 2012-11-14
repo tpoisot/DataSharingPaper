@@ -65,12 +65,19 @@ professional programmers.
 - It will fight bad authorship practices, people hitch-hicking on other people's work
 - Data are costly (time and money) to acquire, acquiring new instead of using old ones is wasteful
 
-[@Heidorn2008] dark data, there is already enough material to answer some pending questions
-[@Wicherts2006] as shown in other disciplines emailing the author(s) to ask for the underlying data often doesn't result in a successful data sharing outcome.
-Authors can claim to have 'lost' the data, can be extremely slow to reply, can ignore emails, 
-the given contact email address may be invalid and difficult to find the 'current' contact address.
-Authors also die, and sadly this can result in the loss of valuable scientific data unless it has been accessibly 
-and discoverably archived elsewhere.
+[@Heidorn2008] dark data, there is already enough material to answer some
+pending questions 
+
+
+
+[@Wicherts2006] surveyed the filed of psychology, and showed that asking for
+the raw data often doesn't result in a successful data sharing outcome, even
+after 6 months of repeated inquiries. Authors can claim to have 'lost' the
+data, can be extremely slow to reply, can ignore emails, the given contact
+email address may be invalid and difficult to find the 'current' contact
+address. Authors also die, and sadly this can result in the loss of valuable
+scientific data unless it has been accessibly and discoverably archived
+elsewhere. Ultimately, authors can also flat out refuse to give the data.
 
 
 # Why is it beneficial for the one who collected data
@@ -81,7 +88,8 @@ and discoverably archived elsewhere.
 
 [@Vandewalle2012] showed that sharing computer code improved the scientific impact
 
-[@Piwowar2007] Sharing detailed research data is associated with increased citation rate for your papers
+[@Piwowar2007] Sharing detailed research data is associated with increased
+citation rate for your papers
 
 - It stimulates collaboration and creativity
 - A measure of your productivity
@@ -102,6 +110,9 @@ recommend the use of TreeBase, DataDryad, or FigShare. The referees are,
 however, rarely asked to evaluate if the adequate data are released (*e.g.*
 network metrics and summary statistics instead of full networks), and even
 more rarely given access to the data during the evaluation process.
+
+
+[@Vision2010] Journals are in the best position to make things move
 
 - Evaluation for funding
 
