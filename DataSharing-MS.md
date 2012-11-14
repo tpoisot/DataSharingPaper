@@ -75,6 +75,8 @@ professional programmers.
 
 [@Vandewalle2012] showed that sharing computer code improved the scientific impact
 
+[@Piwowar2007] Sharing detailed research data is associated with increased citation rate for your papers
+
 - It stimulates collaboration and creativity
 - A measure of your productivity
 
