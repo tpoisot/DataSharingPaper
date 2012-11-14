@@ -30,6 +30,8 @@ few, non-specific initiatives (*DataDryad*), or small-scale initiatives which
 are not always properly maintained (*Interaction Web Networks Database*),
 there is no data sharing culture among ecologists.
 
+**TODO** [@Reichman2011] *DataONE* as a signal that some organisations are ready to invest time and money
+
 In this paper, using the example of ecological networks, we will argue that
 improving our data sharing practices will improve both the science, and the
 reputation of the scientists. We will illustrate how simple steps can be taken
@@ -71,9 +73,7 @@ professional programmers.
 [@Heidorn2008] dark data, there is already enough material to answer some
 pending questions 
 
-
-
-[@Wicherts2006] surveyed the filed of psychology, and showed that asking for
+[@Wicherts2006] surveyed the field of psychology, and showed that asking for
 the raw data often doesn't result in a successful data sharing outcome, even
 after 6 months of repeated inquiries. Authors can claim to have 'lost' the
 data, can be extremely slow to reply, can ignore emails, the given contact
@@ -81,7 +81,6 @@ email address may be invalid and difficult to find the 'current' contact
 address. Authors also die, and sadly this can result in the loss of valuable
 scientific data unless it has been accessibly and discoverably archived
 elsewhere. Ultimately, authors can also flat out refuse to give the data.
-
 
 # Why is it beneficial for the one who collected data
 
@@ -107,15 +106,18 @@ citation rate for your papers
 
 - Journal policies, and referee expertise
 
-Several journals are now asking the authors to deposit the data in a public
-repository. This is mandatory for sequences (GenBank), and various journals
-recommend the use of TreeBase, DataDryad, or FigShare. The referees are,
-however, rarely asked to evaluate if the adequate data are released (*e.g.*
-network metrics and summary statistics instead of full networks), and even
-more rarely given access to the data during the evaluation process.
+Journals are in the best position to make things move [@Vision2010], because a
+scientist career depend on getting its papers accepted. Although when
+possible, a bottom-up approach sould always be prefered, some journals are now
+asking the authors to deposit their ecological data in a public repository
+[@Fairbairn2011 ; @Whitlock2010]. This is mandatory for sequences in all
+journals (*GenBank*), and archiving of all data in TreeBase, DataDryad, or
+FigShare is becomning a common practice. The referees are, however, rarely
+asked to evaluate if the adequate data are released (*e.g.* network metrics
+and summary statistics instead of full networks), and even more rarely given
+access to the data during the evaluation process.
 
-
-[@Vision2010] Journals are in the best position to make things move
+ Ecological journals have policies in place
 
 - Evaluation for funding
 
