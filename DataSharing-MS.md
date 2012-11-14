@@ -66,6 +66,12 @@ professional programmers.
 - Data are costly (time and money) to acquire, acquiring new instead of using old ones is wasteful
 
 [@Heidorn2008] dark data, there is already enough material to answer some pending questions
+[@Wicherts2006] as shown in other disciplines emailing the author(s) to ask for the underlying data often doesn't result in a successful data sharing outcome.
+Authors can claim to have 'lost' the data, can be extremely slow to reply, can ignore emails, 
+the given contact email address may be invalid and difficult to find the 'current' contact address.
+Authors also die, and sadly this can result in the loss of valuable scientific data unless it has been accessibly 
+and discoverably archived elsewhere.
+
 
 # Why is it beneficial for the one who collected data
 
