@@ -101,6 +101,15 @@ citation rate for your papers
 - End the rule of Excel: JSON schemes or XML to represent context-rich data
 - FigShare and other projects: data can have a DOI and be cited/shared
 - Local databases but linked globally: APIs and programmatic access
+- Apply appropriate Creative Commons licenses or waivers to digitally available 
+research data to remove legal barriers to re-use and prevent legal ambiguity over 
+what type of re-use is allowed by the authors. We echo [@Hrynaszkiewicz2012]
+that the CCO waiver is best for factual non-copyrightable data (e.g. measurements) 
+and that the Creative Commons Attribution license (CC BY) is best for copyrightable 
+data such as photographs. Both these licenses are in accordance with the Panton
+Principles (http://pantonprinciples.org/) for open data in science.
+See [@Hagedorn2011] for further details, including an 
+explanation of the pitfalls of more restrictive Creative Commons licenses.
 
 # How it should be encouraged
 
