@@ -117,6 +117,12 @@ asked to evaluate if the adequate data are released (*e.g.* network metrics
 and summary statistics instead of full networks), and even more rarely given
 access to the data during the evaluation process.
 
+Necessary counter-point: journal-led mandates aren't enough though. When 
+compliance with journal stipulations are retrospectively checked, even clinical 
+trials data compliance [@Prayle2012] and GenBank archiving [@Noor2006] of data are not 
+universally adhered to, even in the 'best' journals of highest reputation.
+Journals must take care that data archiving mandates are enforced and not just 'rhetoric'.
+
  Ecological journals have policies in place
 
 - Evaluation for funding
