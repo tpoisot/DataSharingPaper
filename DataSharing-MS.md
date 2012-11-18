@@ -36,7 +36,7 @@ In this paper, using the example of ecological networks, we will argue that
 improving our data sharing practices will improve both the science, and the
 reputation of the scientists. We will illustrate how simple steps can be taken
 to greatly improve the situation, and how we can encourage the practice of
-data-sharing at different levels.
+data-sharing at different levels, and data citation (http://datacite.org/whycitedata) to encourage and reward sharing.
 
 <!-- Shall we have a table with good web examples of significant contributions to ecology that are impossible to achieve without data sharing? There are some questions that definitely need data sharing. -->
 <!-- Another argument also would be that some data are so difficult to collect, it is so unproductive to leave them to some individuals. Think about the BCI data. It's such an impressive database, it stimulated a quantity of research that would not have been realistically accessible to a single team. -->
@@ -110,7 +110,12 @@ elsewhere. Ultimately, authors can also flat out refuse to give the data.
 citation rate for your papers
 
 - It stimulates collaboration and creativity
-- A measure of your productivity
+- A measure of your productivity that is increasingly being appreciated and encouraged by research funder agencies, 
+as an example: the NSF (US) Grant Proposal Guidelines for 2013 have renamed the 'Publications' section to 'Products' 
+specifically to make it clear that they apppreciate research products that "include, but are not limited to, publications, 
+data sets, software, patents, and copyrights" (http://nsf.gov/pubs/policydocs/pappguide/nsf13001/gpg_sigchanges.jsp).
+Published datasets are now truly creditworthy, first class research objects (http://www.force11.org/white_paper) 
+in the eyes of many funders.
 
 # How we technically can
 
