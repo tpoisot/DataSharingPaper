@@ -30,7 +30,7 @@ few, non-specific initiatives (*DataDryad*), or small-scale initiatives which
 are not always properly maintained (*Interaction Web Networks Database*),
 there is no data sharing culture among ecologists.
 
-**TODO** [@Reichman2011] *DataONE* as a signal that some organisations are
+**TODO** [@Reichman2011] *DataONE* as a signal that some organizations are
 ready to invest time and money
 
 In this paper, using the example of ecological networks, we will argue that
@@ -74,7 +74,7 @@ purpose of disseminating an interesting discussion of data: it should maximize
 the ability of other researchers to replicate, and thus both validate and
 expand, results. It's interesting to see that, while editors and referees
 alike are very careful about the way the *Materials & Methods* parts of a
-paper are worded, it's extremely rare to recieve any comment about the data
+paper are worded, it's extremely rare to receive any comment about the data
 availability. This can cause problems at all steps of the life of a paper. How
 can a paper describing a new method be adequately reviewed if data are not
 available? How can you be sure that you are correctly applying a method if you
@@ -123,8 +123,29 @@ in the eyes of many funders.
 # How we technically can
 
 - End the rule of Excel: JSON schemes or XML to represent context-rich data
-- FigShare and other projects: data can have a DOI and be cited/shared
+
+A short paragraph about why we should not store data as text or excel files.
+Mostly because of obsolescence over versions.
+
 - Local databases but linked globally: APIs and programmatic access
+
+An important obstacle is that maintaining a global database requires funding
+on a scale which is orders of magnitude higher than what most grants will
+cover. The other solution, building on an increased use of strict data
+specification, is to link several local databases through APIs. A potential
+research output for working groups should thus be to design a strong data
+specification, and to publish it for other researchers to adopt. In the
+ecological sciences, there are now publications outlets focused only on
+methodological papers (*Methods in Ecology and Evolution*, and to some extent
+*BMC Bioinformatics*), and several other journals have sections for
+methodological papers. The conception of a data specification can thus be
+valorised as a research output in the form of a publication, which is
+accounted for by funding and tenure committees.
+
+- FigShare and other projects: data can have a DOI and be cited/shared
+
+
+
 - Apply appropriate Creative Commons licenses or waivers to digitally available 
 research data to remove legal barriers to re-use and prevent legal ambiguity over 
 what type of re-use is allowed by the authors. We echo [@Hrynaszkiewicz2012]
@@ -141,7 +162,7 @@ explanation of the pitfalls of more restrictive Creative Commons licenses.
 
 Journals are in the best position to make things move [@Vision2010], because a
 scientist career depend on getting its papers accepted. Although when
-possible, a bottom-up approach sould always be prefered, editors have in their
+possible, a bottom-up approach should always be preferred, editors have in their
 hand a formidable lever to modify our collective behavior. Some journals are
 now asking the authors to deposit their ecological data in a public repository
 [@Fairbairn2011 ; @Whitlock2010]. This is mandatory for sequences in all
@@ -155,11 +176,11 @@ reproduce the paper, but not to confirm the validity of the approach.
 
 Journal-led mandates cannot be the only solution used. When compliance with
 journal stipulations are retrospectively checked, even clinical trials data
-compliance [@Prayle2012] and *GenBank* archiving [@Noor2006] of data are not
-universally adhered to, even in the 'best' journals of highest reputation.
+compliance [@Prayle2012] and *GenBank* archiving of data are not
+universally adhered to, even in the 'best' journals of highest reputation [@Noor2006].
 Journals must take care that data archiving mandates are enforced and not just
 'rhetoric', be it through increased editorial control, or by asking the
-referees to evaluate the data sharing solution.
+referees to evaluate the data sharing plans.
 
 Ecological journals have policies in place
 
@@ -176,7 +197,7 @@ affair, as it was later clearly demonstrated that the apparent lack of
 transparency eroded public trust in scientists [@Leiserowitz2010 ;
 @Ravetz2011]. Even more recently, the controversy over a study on the
 carcinogenicity of GM maize [@Seralini2012] was thickened by the refusal of
-both sides (Monsanto and the french research group) to release the full data,
+both sides (Monsanto and the French research group) to release the full data,
 in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 
 # List of possible boxes
