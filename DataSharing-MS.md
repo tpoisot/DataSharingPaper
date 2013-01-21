@@ -87,6 +87,10 @@ computer code is good enough to be shared, even though researchers are not
 professional programmers.
 
 - It will fight bad authorship practices, people hitch-hicking on other people's work
+
+Also, add a point about the quantification of authorship, some refs to cite here:
+http://aidanmkeith.wordpress.com/2012/11/06/tiered-authorship-as-a-simple-quantifiable-and-greyscale-measure-of-contribution/
+
 - Data are costly (time and money) to acquire, acquiring new instead of using old ones is wasteful
 
 [@Heidorn2008] dark data, there is already enough material to answer some
@@ -122,11 +126,16 @@ in the eyes of many funders.
 
 # How we technically can
 
-- End the rule of Excel: JSON schemes or XML to represent context-rich data
+## Data representation
 
-A short paragraph about why we should not store data as text or excel files.
-Mostly because of obsolescence over versions.
+Except when they are deposited into large-scale databases, such as the ones we
+previously mentioned, data usually live (in various states of dormancy) on the
+hard drives of researchers. These data are usually formatted in the way where
+they were used to produce the few figures used in the published account, which
+is to say mostly as a spreadsheet, or a raw text file [@Akmon2011].
+JSON / XML
 
+## Data sharing
 - Local databases but linked globally: APIs and programmatic access
 
 An important obstacle is that maintaining a global database requires funding
@@ -144,7 +153,7 @@ accounted for by funding and tenure committees.
 
 - FigShare and other projects: data can have a DOI and be cited/shared
 
-
+## Data freedom!
 
 - Apply appropriate Creative Commons licenses or waivers to digitally available 
 research data to remove legal barriers to re-use and prevent legal ambiguity over 
@@ -158,7 +167,7 @@ explanation of the pitfalls of more restrictive Creative Commons licenses.
 
 # How it should be encouraged
 
-- Journal policies, and referee expertise
+## The role of journals
 
 Journals are in the best position to make things move [@Vision2010], because a
 scientist career depend on getting its papers accepted. Although when
@@ -184,7 +193,7 @@ referees to evaluate the data sharing plans.
 
 Ecological journals have policies in place
 
-- Evaluation for funding
+## The role of funding agencies
 
 # Conclusion
 
