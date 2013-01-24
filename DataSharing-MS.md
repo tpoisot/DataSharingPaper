@@ -67,29 +67,33 @@ a detailed data management plan in conjunction with the appropriate NERC data ce
 "...Those funded by NERC who do not meet these requirements risk having award payments withheld or becoming ineligible for future funding from NERC"
 
 
-- It allows reproducibility of the science, which is supposed to be the rule
+#It improves reproducibility
 
 Using journals to publish scientific information should not only serve the
-purpose of disseminating an interesting discussion of data: it should maximize
+purpose of disseminating an interesting discussion of data; it should maximize
 the ability of other researchers to replicate, and thus both validate and
-expand, results. It's interesting to see that, while editors and referees
-alike are very careful about the way the *Materials & Methods* parts of a
-paper are worded, it's extremely rare to receive any comment about the data
+expand, results. Interestingly, although editors and referees
+are very careful about the way the *Materials & Methods* sections of a
+paper are worded, it is extremely rare to receive any comment about the data
 availability. This can cause problems at all steps of the life of a paper. How
 can a paper describing a new method be adequately reviewed if data are not
 available? How can you be sure that you are correctly applying a method if you
-can't reproduce the results? The movement of *reproducible research* advocates
-that a paper can be self-contained, *i.e.* be not only the text, but also the
+can't reproduce the results? The movement of *reproducible research* [@Mesirov2010] advocates
+that a paper should be self-contained, *i.e.* be not only the text, but also the
 data, and the computer code to reproduce the figures. Even without going to
 such lengths, releasing data and computer code alongside a paper should be
-viewed as an ethical decision. Barnes [@Barnes2010] made the point that
-computer code is good enough to be shared, even though researchers are not
-professional programmers.
+viewed as an ethical decision. Barnes [@Barnes2010] made the point that even though researchers are not professional programmers, computer code is good enough to be shared.
 
-- It will fight bad authorship practices, people hitch-hicking on other people's work
+#It will clarify authorship
 
 Also, add a point about the quantification of authorship, some refs to cite here:
 http://aidanmkeith.wordpress.com/2012/11/06/tiered-authorship-as-a-simple-quantifiable-and-greyscale-measure-of-contribution/
+
+[@McGee2011] takes a village
+
+[@Weltzin2006] important for responsibility accountability
+
+[@Tscharntke2007] authorship should be about reflecting who did what, and quantifying it
 
 - Data are costly (time and money) to acquire, acquiring new instead of using old ones is wasteful
 
