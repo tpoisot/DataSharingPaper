@@ -17,36 +17,37 @@ dissolution of *me* would be accelerated, and that several scientists should
 be able to cast a critical eye on data, and use this collective effort to draw
 robust conclusions.
 
-In molecular evolution, there exists a large number of databases (GenBank,
-EMBL, SwissProt, and many more) in which information can be retrieved. This
+In molecular evolution, there exists a large number of databases (*GenBank*,
+*EMBL*, *SwissProt*, and many more) in which information can be retrieved. This
 values (and allows) a new type of scientific research: building over the raw
 material of others, it is now possible to identify new phenomenon or evaluate
-the generality of previously studied ones. The job of these scientists is not
-to *make* data, neither to *stole* them, it's rather to gather them and, most
-of all, look at them in a different way. This would not be possible, if not
-for the existence of public, free, online repositories. It's impossible to be
-as enthusiastic when looking at current practices in ecology. Apart from a
-few, non-specific initiatives (*DataDryad*), or small-scale initiatives which
-are not always properly maintained (*Interaction Web Networks Database*),
-there is no data sharing culture among ecologists.
+the generality of previously studied ones. The job of these scientists is not to
+*make* data, neither to *stole* them, it's rather to gather them and, most of
+all, look at them in a different way. This would not be possible, if not for the
+existence of public, free, online repositories. It's sadly impossible to be as
+enthusiastic when looking at current practices in ecology. Apart from a few,
+non-specific initiatives (*DataDryad*), or small-scale initiatives which are not
+always properly maintained (*Interaction Web Networks Database*), there is no
+widespread data sharing culture among ecologists.
 
 Yet in the recent years, there has been a strong signal that some
 organizations are ready to invest time and money in data sharing. For example,
 *DataONE* [@Reichman2011] is a large scale initiative, seeking to curate and
 make available observational data. We foresee that improving our data sharing
-practices will be an important thing in the coming years, and it is important
-to increase the awareness of the scientific community to these practices.
+practices will be an important endeavor in the coming years, and it increasing
+the awareness of the scientific community to these practices is a timely
+topic.
 
-In this paper, using example primarily taken from ecology and evolutionary
+In this paper, using examples primarily taken from ecology and evolutionary
 biology, we will argue that improving our data sharing practices will improve
-both the science, and the reputation of the scientists. We will illustrate how
-simple steps can be taken to greatly improve the situation, and how we can
-encourage the practice of data-sharing at different levels [@Whitlock2010],
-and data citation, to encourage and reward sharing. Our most important point
-is that through sharing more data, we will increase both the quality and
-visibility of the science we produce. We conclude this paper by showing that
-most of the technical aspects of data sharing can easily be mastered, meaning
-that data are ready to be liberated!
+both the quality of the science, and the reputation of the scientists. We
+illustrate how simple steps can be taken to greatly improve the situation, and
+how we can encourage the practice of data-sharing at different levels
+[@Whitlock2010], and data citation, to encourage and reward sharing. Our most
+important point is that through sharing more data, we will increase both the
+quality and visibility of the science we produce. We conclude this paper by
+showing that most of the technical aspects of data sharing can easily be
+mastered, meaning that data are ready to be liberated!
 
 #Why we morally must
 
@@ -157,38 +158,66 @@ Except when they are deposited into large-scale databases, such as the ones we
 previously mentioned, data usually live (in various states of dormancy) on the
 hard drives of researchers. These data are usually formatted in the way where
 they were used to produce the few figures used in the published account, which
-is to say mostly as a spreadsheet, or a raw text file [@Akmon2011].
-JSON / XML
+is to say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more
+robust and sharing-friendly formats exists, which should be taken advantage
+of. For example, the *JavaScript Object Notation* [@Crockford2006] allows a
+context-rich representation of data, which can be based on templates. Building
+upon this format, a working group can put together a syntax to represent a
+given type of ecological data, then provide JSON templates for other people to
+release these data. In the ecological sciences, there are now publications
+outlets focused only on methodological papers (*Methods in Ecology and
+Evolution*, and to some extent *BMC Bioinformatics*), and several other
+journals have sections for methodological papers. JSON parsers exists for
+almost all languages (notably C, Python, R, Java), which means that different
+applications will be able to access the shared information. Under this
+perspective, it is possible to build local databases. As long as they respect
+the specification, groups only need to share the access to these databases, to
+enable all scientists to access the data. A "global" access can still be
+achieved by wrapping all of the local data sources, though an API, as detailed
+in the following section.
 
-##Data sharing
-- Local databases but linked globally: APIs and programmatic access
+##Database linkage
 
 An important obstacle is that maintaining a global database requires funding
 on a scale which is orders of magnitude higher than what most grants will
 cover. The other solution, building on an increased use of strict data
-specification, is to link several local databases through APIs. A potential
-research output for working groups should thus be to design a strong data
-specification, and to publish it for other researchers to adopt. In the
-ecological sciences, there are now publications outlets focused only on
-methodological papers (*Methods in Ecology and Evolution*, and to some extent
-*BMC Bioinformatics*), and several other journals have sections for
-methodological papers. The conception of a data specification can thus be
-valorised as a research output in the form of a publication, which is
-accounted for by funding and tenure committees.
+specification, is to link several local databases through APIs. In short, an
+API is an application stored on a server, which will offer several *methods*,
+each returning a *reply*. For example, a *method* can be "retrieve all
+datasets containing species A", and the *reply* will be a list of datasets
+identifiers. If a particular data format is applied to more than one
+databases, it becomes possible to query them at once. Under this perspective,
+the origin of the data do not matter, because the API will return them in a
+standardized fashion. Each group implementing such a database can, in this
+situation, share the informations related to data access. Instead of putting
+the raw data on a data sharing platform (some of which are reviewed below),
+the authors will give informations about the study, and informations about
+where the data are stored, and how to access them.
 
-- FigShare and other projects: data can have a DOI and be cited/shared
+##A short review of the platforms
 
-##Data freedom!
+##Licensing issues
 
-- Apply appropriate Creative Commons licenses or waivers to digitally available 
-research data to remove legal barriers to re-use and prevent legal ambiguity over 
-what type of re-use is allowed by the authors. We echo [@Hrynaszkiewicz2012]
-that the CCO waiver is best for factual non-copyrightable data (e.g. measurements) 
-and that the Creative Commons Attribution license (CC BY) is best for copyrightable 
-data such as photographs. Both these licenses are in accordance with the Panton
-Principles (http://pantonprinciples.org/) for open data in science.
-See [@Hagedorn2011] for further details, including an 
-explanation of the pitfalls of more restrictive Creative Commons licenses.
+Perhaps the point with which scientists will have the less familiarity is the
+licensing under which data should be made available. Fortunately, easy to
+understand, non-restrictive licenses exists, which are fitted to scientific
+output. The most well known family of them is the *Creative Commons* (CC).
+This family of licenses originated in the need to allow the free (as in speech
+,or as in beer) diffusion of cultural, artistic, and intellectual productions
+[@Lessig2004], and it's difficult to argue that scientific output do not fall
+within this category. [@Hrynaszkiewicz2012] proposes that factual data, on
+which no copyright can be applied, be released under the *CC-0 waiver*, which
+essentially removes all copyright on the data. While this can be the most
+altruistic attitude to adopt, the need to achieve recognition through the
+citation of ones' work will probably lead many people to use the *CC-BY*
+license, which allows use and reproduction of the data as long as the original
+source is explicitly mentioned. Both of these licenses are in accordance with
+the Panton Principles [@Murray-Rust2010]. The *Creative Commons* website
+offers an intuitive tool to choose a license
+(`http://creativecommons.org/choose/`), although we encourage scientists to be
+aware about the pitfalls associated with the most restrictive ones
+[@Hagedorn2011].
+
 
 #How it should be encouraged
 
@@ -210,11 +239,11 @@ reproduce the paper, but not to confirm the validity of the approach.
 
 Journal-led mandates cannot be the only solution used. When compliance with
 journal stipulations are retrospectively checked, even clinical trials data
-compliance [@Prayle2012] and *GenBank* archiving of data are not
-universally adhered to, even in the 'best' journals of highest reputation [@Noor2006].
+compliance [@Prayle2012] and *GenBank* archiving of data are not universally
+adhered to, even in the 'best' journals of highest reputation [@Noor2006].
 Journals must take care that data archiving mandates are enforced and not just
-'rhetoric', be it through increased editorial control, or by asking the
-referees to evaluate the data sharing plans.
+'rhetoric', be it through increased editorial control, or by asking the referees
+to evaluate the data sharing plans.
 
 Ecological journals have policies in place
 
@@ -234,6 +263,25 @@ carcinogenicity of GM maize [@Seralini2012] was thickened by the refusal of
 both sides (Monsanto and the French research group) to release the full data,
 in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 
-When journal editors started publicly discussing the matter, they called this *data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other scientists not to use this expression. Data *archiving* evocates cardboard boxes, in which data are put to collect some dust. Wether this happens in the hard-drive of a scientist or in a well-maintained repository only differs in the fact that the later solution comes with a DOI. We think that the process or making data available should be called in a way which reflects its objectives: *data sharing*. We have the technology in place to give data a second life, in which the scientific community can appropriate them, recognize the paternity of those who generated them, and acknowledge this through citations. Data are all we care about. They make our papers possible. They bring answers to our questions, and much better, questions to our answers. After serving us so well, they deserve better than to be *archived*.
+When journal editors started publicly discussing the matter, they called this
+*data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other
+scientists not to use this expression. Data *archiving* evocate cardboard
+boxes, in which data are put to collect some dust. Whether this happens in the
+hard-drive of a scientist or in a well-maintained repository only differs in
+the fact that the later solution comes with a DOI. We think that the process
+or making data available should be called in a way which reflects its
+objectives: *data sharing*. We have the technology in place to give data a
+second life, in which the scientific community can appropriate them, recognize
+the paternity of those who generated them, and acknowledge this through
+citations. Data are all we care about. They make our papers possible. They
+bring answers to our questions, and much better, questions to our answers.
+After serving us so well, they deserve better than to be *archived*.
+
+**Acknowledgments**: 
+We thank Karthik Ram for offering us the opportunity to write this paper, and
+many people who gave feedback during the writing. This paper was developed in
+an open *GitHub* repository (`https://github.com/tpoisot/DataSharingPaper`),
+and is archived on *fig**share***. TP is a *fig**share*** advisor. TP was
+funded by a FQRNT-MELS post-doctoral scholarship.
 
 #References
