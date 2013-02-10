@@ -259,10 +259,17 @@ journal stipulations are retrospectively checked, even clinical trials data
 compliance [@Prayle2012] and *GenBank* archiving of data are not universally
 adhered to, even in the 'best' journals of highest reputation [@Noor2006].
 Journals must take care that data archiving mandates are enforced and not just
-'rhetoric', be it through increased editorial control, or by asking the referees
-to evaluate the data sharing plans.
-
-**THE NUMBER OF CITATIONS** -- get a special references section for data, especially in meta-analyses!
+'rhetoric', be it through increased editorial control, or by asking the
+referees to evaluate the data sharing plans. In addition, journals should
+implement incentives for authors to cite the datasets, and not just the paper
+to which they are attached. Strong limitations on the number of references can
+currently impede this practice, as it will force authors to choose citations.
+In the context of meta-analyses, this can become especially problematic. The
+solution of having references part of the supplementary materials is not
+optimal either, as it comes with no assurance that they will be registered as
+a citation to the dataset, and will benefit from less exposure. To this
+effect, having an additional reference, as it will valorize the production of
+data as literature items.
 
 ## The role of funding agencies
 
