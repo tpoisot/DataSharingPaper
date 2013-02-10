@@ -116,17 +116,27 @@ professional programmers, computer code is good enough to be shared.
 
 ## Data cost money
 
-[@Heidorn2008] dark data, there is already enough material to answer some
-pending questions 
-
-[@Wicherts2006] surveyed the field of psychology, and showed that asking for
-the raw data often doesn't result in a successful data sharing outcome, even
-after 6 months of repeated inquiries. Authors can claim to have 'lost' the
-data, can be extremely slow to reply, can ignore emails, the given contact
-email address may be invalid and difficult to find the 'current' contact
-address. Authors also die, and sadly this can result in the loss of valuable
-scientific data unless it has been accessibly and discoverably archived
-elsewhere. Ultimately, authors can also flat out refuse to give the data.
+Gathering data, either in the lab or in the field, costs money, as it requires
+the acquisition and maintenance of equipments and reagents, in addition to
+salaries. In this perspective, generating new data when existing ones are
+available and could bring answers to a question is a wasteful practice. So as
+to avoid this, we need to have an easy way to find suitable data, which
+require thorough indexing. The large amount of hard to access data was dubbed
+'dark data' [@Heidorn2008]. The fraction of data falling within this category
+is likely to increase. [@Wicherts2006] surveyed the field of psychology, and
+showed that asking for the raw data often doesn't result in a successful data
+sharing outcome, even after 6 months of repeated inquiries. Authors can claim
+to have 'lost' the data, can be extremely slow to reply, can ignore emails,
+the given contact email address may be invalid and difficult to find the
+'current' contact address. Authors also die, and sadly this can result in the
+loss of valuable scientific data unless it has been accessibly and
+discoverably archived elsewhere. Ultimately, authors can also flat out refuse
+to give the data. The systematic practice of releasing data with non
+restrictive licences (some of which are explained in a later section), and
+associated with standardized meta-data, will help fight this effect. Overall,
+by making data easier to access, and better documenting them, we will decrease
+the flow of funding going into data gathering, and thus decrease the financial
+pressure on labs.
 
 # Which benefits it will bring us
 
@@ -232,7 +242,6 @@ Commons* website offers an intuitive tool to choose a license
 (`http://creativecommons.org/choose/`), although we encourage scientists to be
 aware about the pitfalls associated with the most restrictive ones
 [@Hagedorn2011].
-
 
 # How it should be encouraged
 
