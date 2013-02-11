@@ -7,11 +7,11 @@
 # Introduction
 
 Claude Bernard [@Bernard1864] wrote that "art is *me*; science is *us*". This
-sentence has two meaning. First, the altruism of scientists is worth more than
-the self-indulgence of mid-nineteenth century Parisian art scene. Second, and
-we will keep this one in mind, creativity and insights come from individuals,
-but validation and rigor are reached through collective efforts, cross-
-validation, and peerage. Given enough time, the conclusions reached and
+sentence has two meanings. First, the altruism of scientists is worth more to
+Bernard than the self-indulgence of mid-nineteenth century Parisian art scene.
+Second, and we will keep this one in mind, creativity and insights come from
+individuals, but validation and rigor are reached through collective efforts,
+cross- validation, and peerage. Given enough time, the conclusions reached and
 validated by the efforts of many will take prominence over individualities,
 and this (as far as Bernard is concerned), is what science is about. With the
 technology available to a modern scientist, one should expect that the
