@@ -1,0 +1,26 @@
+body{
+	width: 600px;
+	margin: 10px auto;
+	font-family: 'Open Sans', 'Droid Sans', sans-serif;
+	line-height: 1.8em;
+}
+
+h1{font-size: 1.4em; margin-left: -50px;border-bottom: 1px solid black;}
+h2{font-size: 1.1em; font-style: italic; margin-left: -25px;}
+
+#header{
+	width: 800px;
+	margin-left: -100px;	
+}
+
+#header h1, #header h2{margin-left: 0px !important;border-bottom: 0px solid white;}
+#header h2, #header h3{font-weight: normal;}
+
+blockquote{
+	box-shadow: 1px 1px 4px rgba(100, 100, 100, 0.1);
+	background-color: rgb(254, 254, 254);
+	padding: 1px 10px;
+	line-height: 1.6em;
+	font-size: 0.9em;
+	margin: 0px 0px;
+}

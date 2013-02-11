@@ -1,5 +1,7 @@
 % Moving toward a sustainable ecological science: don't let data go to waste!
-% Timothée Poisot, Ross Mounce, Dominique Gravel
+% Timothée Poisot
+  Ross Mounce
+  Dominique Gravel
 % Nov. 2012
 
 # Introduction
@@ -108,11 +110,22 @@ professional programmers, computer code is good enough to be shared.
 
 ## It will clarify authorship
 
-[@McGee2011] takes a village
-
-[@Weltzin2006] important for responsibility accountability
-
-[@Tscharntke2007] authorship should be about reflecting who did what, and quantifying it
+It's well accepted that the final for of a scientific article reflects the
+diversity of backgrounds and scientific sensibilities of its authors
+[@McGee2011]. Yet authorship, in the sense of deciding who gets to be listed
+as an author, and in which order, is still a key issue in several
+collaborations. Additionally, authorship deserves to be properly quantified
+[@Tscharntke2007], to reflect the amount of work done by each contributor. Too
+strict rules of authorship will not award proper recognition, and rules too
+open will grant undue credit. To some extent, journals attempted to qualify
+the work of each contributor by having special sections, indicating who wrote
+the paper, conceived the study, or contributed data or reagents. This is far
+from being anecdotal, as it allows for increased accountability
+[@Weltzin2006]. By making dataset public and citable, the contribution of data
+will become less and less of a criteria for authorship. Because the datasets
+can be cited independently from their original paper, they will also
+contribute to the overall scientific impact of the researcher who generated
+them, thus allowing to name as authors only those who analysed the data.
 
 ## Data cost money
 
@@ -161,7 +174,7 @@ impact.
 
 ## It measures your productivity
 
-A measure of your productivity that is increasingly being appreciated and
+> A measure of your productivity that is increasingly being appreciated and
 encouraged by research funder agencies,  as an example: the NSF (US) Grant
 Proposal Guidelines for 2013 have renamed the 'Publications' section to
 'Products'  specifically to make it clear that they apppreciate research
@@ -241,7 +254,11 @@ are in accordance with the Panton Principles [@Murray-Rust2010]. The *Creative
 Commons* website offers an intuitive tool to choose a license
 (`http://creativecommons.org/choose/`), although we encourage scientists to be
 aware about the pitfalls associated with the most restrictive ones
-[@Hagedorn2011].
+[@Hagedorn2011]. In any case, although the *CC-0 waiver* makes it possible to
+use data without attribution, we encourage scientists not to do so, as we
+think it will effectively prevent the attribution of data, and thus decrease
+the usefulness of data sharing as a way to increase your (measured) scientific
+impact.
 
 # How it should be encouraged
 
@@ -309,6 +326,10 @@ the paternity of those who generated them, and acknowledge this through
 citations. Data are all we care about. They make our papers possible. They
 bring answers to our questions, and much better, questions to our answers.
 After serving us so well, they deserve better than to be *archived*.
+
+Making data sharing the rule rather than the expection should be encouraged.
+Yet it does not mean that we should look down on the generation of new data.
+**Continue this §**.
 
 **Acknowledgments**: 
 We thank Karthik Ram for offering us the opportunity to write this paper, and
