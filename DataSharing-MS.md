@@ -175,7 +175,7 @@ pressure on labs.
 
 ## A proxy to your science
 
-Datasets are a mean for people to get familiar with what you do. There is
+Datasets are an alternative means by which people can discover the research that you do. There is
 evidence showing that data availability improves reproducibility and adequate
 communication of results [@Ince2012]. Similarly, in some fields,
 releasing computer code under open source licenses [@Vandewalle2012] or
@@ -183,12 +183,11 @@ sharing research data [@Piwowar2007] is associated with increased citation
 rates for your papers. Yet one of the argument often opposed by people
 reluctant to share their data is that they might risk loosing paternity of
 them. The previously cited analyses show that by *not* sharing data, we are
-exposed to a higher risk of our research being ignored, simply because people
-cannot exploit it. By developping a culture of data sharing, and adequate
-citations of the datasets, the origin of the data (and thus their paternity)
-will be made clear. It seems that by keeping *property* over the data, there
-is a risk of them not being recognized, which will decrease a scientist's
-impact.
+exposed to a higher risk of our research being ignored, simply because other people
+cannot re-use or re-examine the data. By developping a culture of data sharing, and adequate
+citation of the datasets re-used, the origin of the data (and thus their paternity)
+will be made clear. It seems that by reserving intellectual *property* rights over data, there
+are real risks of data not getting the usage it deserves, reducing scientists potential impact.
 
 ## It stimulates collaboration and creativity
 
