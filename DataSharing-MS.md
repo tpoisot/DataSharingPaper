@@ -22,16 +22,16 @@ robust conclusions.
 In molecular evolution, there exists a large number of databases (*GenBank*,
 *EMBL*, *SwissProt*, and many more) in which information can be retrieved.
 Such initatives value (and promote) a new type of scientific research:
-building-on and extending the raw material of others, it is now possible to identify new
-phenomenon or evaluate the generality of previously studied ones. The job of
-scientists relying on these databases is not to *make* data, neither to
-*stole* them, it is rather to gather them and, most of all, look at them in a
-different way. This would not be possible, if not for the existence of public,
-free, online repositories. It is sadly impossible to be as enthusiastic when
-looking at current practices in ecology. Apart from a few, non-specific
-initiatives (e.g. *DataDryad*), or small-scale initiatives which are not
-always properly maintained, there is no widespread data sharing culture among
-ecologists.
+building-on and extending the raw material of others, it is now possible to
+identify new phenomenon or evaluate the generality of previously studied ones.
+The job of scientists relying on these databases is not to *make* data,
+neither to *stole* them, it is rather to gather them and, most of all, look at
+them in a different way. This would not be possible, if not for the existence
+of public, free, online repositories. It is sadly impossible to be as
+enthusiastic when looking at current practices in ecology. Apart from a few,
+non-specific initiatives (e.g. *DataDryad*), or small-scale initiatives which
+are not always properly maintained, there is no widespread data sharing
+culture among ecologists.
 
 Yet in the recent years, there has been a strong signal that some
 organizations are ready to invest time and money in data sharing. For example,
@@ -76,24 +76,25 @@ it is not surprising that some funding agencies have implemented data
 availability policies.
 
 <!-- % The worst thing is that there are such databases, collected by volunteers, are sold to researchers! -->
-<!-- NB The first B of BBSRC is 'British', so you really can't write British BBSRC -->
-For example, *BBSRC* (UK) state that "[p]ublicly-funded
-research data are a public good, produced in the public interest", which
-"should be openly available to the maximum extent possible". They further
-add that "[t]he value of data often depends on timeliness[;] it is expected
-that timely release would generally be no later than the release through
-publication of the main findings". Similarly, *NERC* (UK) state that "[a]ll the
-environmental data held by the NERC Environmental Data Centres will normally
-be made openly available to any person or any organization who requests
-them.". Sanctions for not sharing data are also put in place, as "[t]hose funded by NERC who do not
+
+For example, *BBSRC* (UK) state that "[p]ublicly-funded research data are a
+public good, produced in the public interest", which "should be openly
+available to the maximum extent possible". They further add that "[t]he value
+of data often depends on timeliness[;] it is expected that timely release
+would generally be no later than the release through publication of the main
+findings". Similarly, *NERC* (UK) state that "[a]ll the environmental data
+held by the NERC Environmental Data Centres will normally be made openly
+available to any person or any organization who requests them.". Sanctions for
+not sharing data are also put in place, as "[t]hose funded by NERC who do not
 meet these requirements risk having award payments withheld or becoming
 ineligible for future funding from NERC". This perfectly mirrors one of the
-earliest drivers of the open access movement: science publications which are made possible through
-public investment must be made public. Publicly funded scientists, in most
-countries, are thus civil servants. Generating data is part of their job
-description, and there is no rational argument for which they should claim
-*property* of it. Claiming *paternity* of the data, as we discuss below, is a
-perfectly legitimate claim, but does not prevent sharing them.
+earliest drivers of the open access movement: science publications which are
+made possible through public investment must be made public. Publicly funded
+scientists, in most countries, are thus civil servants. Generating data is
+part of their job description, and there is no rational argument for which
+they should claim *property* of it. Claiming *paternity* of the data, as we
+discuss below, is a perfectly legitimate claim, but does not prevent sharing
+them.
 
 <!-- % Subtle but very important point at the end. Good job!
 % It might be out of our reach, but it would have been nice to have a table with the most important countries in ecological/evolution research and which one whose funding agencies require open data.  -->
@@ -164,30 +165,32 @@ the given contact email address may be invalid and difficult to find the
 'current' contact address. Authors also die, and sadly this can result in the
 loss of valuable scientific data unless it has been accessibly and
 discoverably archived elsewhere. Ultimately, authors can also flat out refuse
-to give the data. The practice of releasing data into the public domain with a 
-CC0 waiver (best) or with minimally-restrictive licences (some of which are explained in a later section), and
-associated with standards-compliant metadata, will help fight this effect. Overall,
-by making data easier to access, understand, and re-use, we will decrease
-the flow of funding going into data gathering, and thus decrease the financial
-pressure on labs.
-<!-- % to streamline the sentence I changed it to access, understand (metadata), and re-use -->
+to give the data. The practice of releasing data into the public domain with a
+CC0 waiver (best) or with minimally-restrictive licences (some of which are
+explained in a later section), and associated with standards-compliant
+metadata, will help fight this effect. Overall, by making data easier to
+access, understand, and re-use, we will decrease the flow of funding going
+into data gathering, and thus decrease the financial pressure on labs.
+
 # Which benefits it will bring us
 
 ## A proxy to your science
 
-Datasets are an alternative means by which people can discover the research that you do. There is
-evidence showing that data availability improves reproducibility and adequate
-communication of results [@Ince2012]. Similarly, in some fields,
-releasing computer code under open source licenses [@Vandewalle2012] or
-sharing research data [@Piwowar2007] is associated with increased citation
-rates for your papers. Yet one of the argument often opposed by people
-reluctant to share their data is that they might risk loosing paternity of
-them. The previously cited analyses show that by *not* sharing data, we are
-exposed to a higher risk of our research being ignored, simply because other people
-cannot re-use or re-examine the data. By developping a culture of data sharing, and adequate
-citation of the datasets re-used, the origin of the data (and thus their paternity)
-will be made clear. It seems that by reserving intellectual *property* rights over data, there
-are real risks of data not getting the usage it deserves, reducing scientists potential impact.
+Datasets are an alternative means by which people can discover the research
+that you do. There is evidence showing that data availability improves
+reproducibility and adequate communication of results [@Ince2012]. Similarly,
+in some fields, releasing computer code under open source licenses
+[@Vandewalle2012] or sharing research data [@Piwowar2007] is associated with
+increased citation rates for your papers. Yet one of the argument often
+opposed by people reluctant to share their data is that they might risk
+loosing paternity of them. The previously cited analyses show that by *not*
+sharing data, we are exposed to a higher risk of our research being ignored,
+simply because other people cannot re-use or re-examine the data. By
+developping a culture of data sharing, and adequate citation of the datasets
+re-used, the origin of the data (and thus their paternity) will be made clear.
+It seems that by reserving intellectual *property* rights over data, there are
+real risks of data not getting the usage it deserves, reducing scientists
+potential impact.
 
 ## It stimulates collaboration and creativity
 
@@ -241,8 +244,8 @@ in the following section.
 ## Database linkage
 
 An important obstacle is that maintaining a global database requires funding
-on a scale which is orders of magnitude higher (in terms of amount and duration) than what most grants will
-cover. 
+on a scale which is orders of magnitude higher (in terms of amount and
+duration) than what most grants will cover.
 
 <!-- % The following paragraph is also a bit abstract for someone (like me) not familiar with APIs -->
 
@@ -263,30 +266,24 @@ where the data are stored, and how to access them.
 ## Licensing issues
 
 Perhaps the point with which scientists will have the less familiarity is the
-licensing under which data should be made available. 
-
-<!-- % Define what is a license -->
-
-Fortunately, easy to
-understand, non-restrictive licenses exists, which are fitted to scientific
-output. The most well known family of them is the *Creative Commons* (CC).
-This family of licenses originated in the need to allow the free (as in
-speech or as in beer) 
-
-<!-- % I must be tired but I don't get the link with beer -->
-
-diffusion of cultural, artistic, and intellectual
-productions [@Lessig2004], and it's difficult to argue that scientific output
-do not fall within this category. [@Hrynaszkiewicz2012] proposes that factual
-data, on which no copyright can be applied, be released under the *CC-0
-waiver*, which essentially removes all copyright on the data. This particular
-licence is imposed by *Dryad* (a data repository associated with, *e.g.*, *The
-American Naturalist*) and *fig**share*** (though only for datasets). Another
-alternative is the *CC-BY* license, which allows use and reproduction of the
-data as long as the original source is explicitly mentioned (this licence is
-used for all non-data submissions in *fig**share***). Both of these licenses
-are in accordance with the Panton Principles [@Murray-Rust2010]. The *Creative
-Commons* website offers an intuitive tool to choose a license
+licensing under which data should be made available. Broadly speaking, a
+licence is a text defining how a content can be used, modified, and
+distributed. Fortunately, easy to understand, non-restrictive licenses exists,
+which are fitted to scientific output. The most well known family of them is
+the *Creative Commons* (CC). This family of licenses originated in the need to
+allow the free (as in speech, *i.e.* with no conditions, or as in beer, *i.e.*
+at not cost) diffusion of cultural, artistic, and intellectual productions
+[@Lessig2004], and it's difficult to argue that scientific output do not fall
+within this category. As *facts* cannot be copyrigthed, [@Hrynaszkiewicz2012]
+proposes that most data be released under the *CC-0 waiver*, which essentially
+removes all copyright on the data. This particular licence is imposed by
+*Dryad* (a data repository associated with, *e.g.*, *The American Naturalist*)
+and *fig**share*** (though only for datasets). Another alternative is the *CC-
+BY* license, which allows use and reproduction of the data as long as the
+original source is explicitly mentioned (this licence is used for all non-data
+submissions in *fig**share***). Both of these licenses are in accordance with
+the Panton Principles [@Murray-Rust2010]. The *Creative Commons* website
+offers an intuitive tool to choose a license
 (`http://creativecommons.org/choose/`), although we encourage scientists to be
 aware about the pitfalls associated with the most restrictive ones
 [@Hagedorn2011]. In any case, although the *CC-0 waiver* makes it possible to
@@ -300,11 +297,7 @@ impact.
 ## The role of journals
 
 Journals are in the best position to make things move [@Vision2010], because a
-scientist career depend on getting its papers accepted. 
-
-<!-- % Yes, but the question is, is it in their own interest? -->
-
-Although when
+scientist career depend on getting its papers accepted. Although when
 possible, a bottom-up approach should always be preferred, editors have in
 their hand a formidable lever to modify our collective behavior. Some journals
 are now asking the authors to deposit their ecological data in a public
@@ -318,7 +311,7 @@ TreeBase, DataDryad, or FigShare is becoming a common practice. The referees
 are, however, rarely asked to evaluate if the adequate data are released, and
 even more rarely given access to the data during the evaluation process. About
 this last point, an increased collaboration between journals and data sharing
-platforms, to allow referees to anonynously access the data, should be
+platforms, to allow referees to anonymously access the data, should be
 encouraged. In practice, authors are still free to release summary statistics
 instead of raw data, which allows to reproduce the paper, but not to confirm
 the validity of the approach.
