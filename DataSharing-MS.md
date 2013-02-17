@@ -22,7 +22,7 @@ robust conclusions.
 In molecular evolution, there exists a large number of databases (*GenBank*,
 *EMBL*, *SwissProt*, and many more) in which information can be retrieved.
 Such initatives value (and promote) a new type of scientific research:
-building over the raw material of others, it is now possible to identify new
+building-on and extending the raw material of others, it is now possible to identify new
 phenomenon or evaluate the generality of previously studied ones. The job of
 scientists relying on these databases is not to *make* data, neither to
 *stole* them, it is rather to gather them and, most of all, look at them in a
