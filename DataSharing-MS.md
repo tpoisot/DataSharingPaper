@@ -164,13 +164,13 @@ the given contact email address may be invalid and difficult to find the
 'current' contact address. Authors also die, and sadly this can result in the
 loss of valuable scientific data unless it has been accessibly and
 discoverably archived elsewhere. Ultimately, authors can also flat out refuse
-to give the data. The systematic practice of releasing data with non
-restrictive licences (some of which are explained in a later section), and
-associated with standardized meta-data, will help fight this effect. Overall,
-by making data easier to access, and better documenting them, we will decrease
+to give the data. The practice of releasing data into the public domain with a 
+CC0 waiver (best) or with minimally-restrictive licences (some of which are explained in a later section), and
+associated with standards-compliant metadata, will help fight this effect. Overall,
+by making data easier to access, understand, and re-use, we will decrease
 the flow of funding going into data gathering, and thus decrease the financial
 pressure on labs.
-
+<!-- % to streamline the sentence I changed it to access, understand (metadata), and re-use -->
 # Which benefits it will bring us
 
 ## A proxy to your science
