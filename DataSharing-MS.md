@@ -76,21 +76,21 @@ it is not surprising that some funding agencies have implemented data
 availability policies.
 
 <!-- % The worst thing is that there are such databases, collected by volunteers, are sold to researchers! -->
-
-For example, the British *BBSRC* requires that "[p]ublicly-funded
+<!-- NB The first B of BBSRC is 'British', so you really can't write British BBSRC -->
+For example, *BBSRC* (UK) state that "[p]ublicly-funded
 research data are a public good, produced in the public interest", which
-"should be openly available to the maximum extent possible". It then further
-adds that "[t]he value of data often depends on timeliness[;] it is expected
+"should be openly available to the maximum extent possible". They further
+add that "[t]he value of data often depends on timeliness[;] it is expected
 that timely release would generally be no later than the release through
-publication of the main findings". Similarly, *NERC* states that "[a]ll the
+publication of the main findings". Similarly, *NERC* (UK) state that "[a]ll the
 environmental data held by the NERC Environmental Data Centres will normally
 be made openly available to any person or any organization who requests
-them.". Sanctions are also put in place, as "[t]hose funded by NERC who do not
+them.". Sanctions for not sharing data are also put in place, as "[t]hose funded by NERC who do not
 meet these requirements risk having award payments withheld or becoming
 ineligible for future funding from NERC". This perfectly mirrors one of the
-earliest debate about open-access: science which is made possible through
-public involvement must be made public. Publicly funded scientists, in most
-countries, are civil servants. Generating data is part of their job
+earliest drivers of the open access movement: science publications which are made possible through
+public investment must be made public. Publicly funded scientists, in most
+countries, are thus civil servants. Generating data is part of their job
 description, and there is no rational argument for which they should claim
 *property* of it. Claiming *paternity* of the data, as we discuss below, is a
 perfectly legitimate claim, but does not prevent sharing them.
