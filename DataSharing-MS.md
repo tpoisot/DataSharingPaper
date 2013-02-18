@@ -194,18 +194,16 @@ potential impact.
 
 ## It stimulates collaboration and creativity
 
-## It measures your productivity
+## It is a significant measure of your research impact
 
-% The next sentence has to be edited, it is hardly readable
-> A measure of your productivity that is increasingly being appreciated and
-encouraged by research funder agencies,  as an example: the NSF (US) Grant
-Proposal Guidelines for 2013 have renamed the 'Publications' section to
-'Products'  specifically to make it clear that they apppreciate research
-products that "include, but are not limited to, publications,  data sets,
-software, patents, and copyrights"
-(http://nsf.gov/pubs/policydocs/pappguide/nsf13001/gpg_sigchanges.jsp).
-Published datasets are now truly creditworthy, first class research objects
-(http://www.force11.org/white_paper) in the eyes of many funders.
+The NSF (US) Grant Proposal Guidelines for 2013 have notably stopped referring to 'Publications' and instead refer to 
+'Products' [@Piwowar2013]. This change was made specifically to make it clear to scientists that research funders now see great value in
+ in research products, not *just* publications. Research products "include, but are not limited to, publications, data sets,
+software, and patents".
+Thus published, shared datasets are now 'first class research objects' as they should be (http://www.force11.org/white_paper).
+We think this is a healthy move that will soon be copied by many research funders across the world. Modern science needs more than just publications, it needs shared data to function efficiently.
+By formally recognising and encouraging applicants to put shared datasets on their CV's and show the re-use of these datasets, the NSF is recognising the immense and largely untapped value of data re-use.
+Just like publications, some datasets will be more re-used & cited than others. Thus research evaluation excercises will soon be looking to measure the impact of one's data and software, not just publications.
 
 # How we technically can
 
