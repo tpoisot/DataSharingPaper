@@ -63,11 +63,11 @@ collaborators.
 
 ## Data acquisition is (mostly) publicly funded
 
-In contrasts with other fields such as energy, medicine, and pharmaceutical
+In contrast with other fields such as energy, or pharmaceutical
 research, most ecological and evolutionary research is funded through public
-grants or charitably- funded programs. Or in other words, research is
-dependent on  taxpayers. In some fields, most notably conservation biology, it
-is not uncommon that eco-volunteers participate in data gathering. For
+grants or charitably- funded programs. Or in other words, most research is
+dependent on taxpayers, indeed a recent HSBC report estimated that across the world 80% of research publications are funded by the public sector [@Graham2013]. In some fields, most notably conservation biology, it
+is not uncommon for volunteers to participate in data gathering. For
 example, the French temporal survey of common birds [@Jiguet2006], which
 resulted in 29 publications in peer-reviewed journals, is fed entirely through
 the work of amateur ornithologists. Given the direct (participatory) or
