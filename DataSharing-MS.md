@@ -283,7 +283,7 @@ American Naturalist*) and *fig**share*** (though only for datasets). Where the
 'data' is more artistically-expressed this can, if desired, be licensed e.g. a photograph, micrograph or video. An 	
 acceptable licence that minimally impedes the progress of science is the Creative Commons Attribution (*CC BY*) license, which allows use and reproduction of the
 data as long as the original data is cited in the manner specified by the author(s) and not in any way that suggests that they endorse the re-use (this licence is	
-used for all non-data submissions in *fig**share***). The *Creative
+used for all non-data submissions in *fig**share***). Concerns over the use of CC BY in academia have been exhaustively answered by Creative Commons recently as so many academics in the UK were confused [@CreativeCommons2013]. The *Creative
 Commons* website offers an intuitive free tool to choose a license	
 (`http://creativecommons.org/choose/`). We urge readers to take heed of the above, and strongly encourage scientists to be
 aware of the pitfalls associated with the other more restrictive license modules available when selecting a waiver or license.	
