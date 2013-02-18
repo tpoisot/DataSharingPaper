@@ -352,8 +352,7 @@ both sides (Monsanto and the French research group) to release the full data,
 in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 
 When journal editors started publicly discussing the matter, they called this
-*data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other
-scientists not to use this expression. Data *archiving* evocate cardboard
+*data archiving* [@Fairbairn2011 ; @Whitlock2010]. Data *archiving* evocate cardboard
 boxes, in which data are put to collect some dust. Whether this happens in the
 hard-drive of a scientist or in a well-maintained repository only differs in
 the fact that the later solution comes with a DOI. We think that the process
