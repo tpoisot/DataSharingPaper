@@ -261,40 +261,37 @@ the raw data on a data sharing platform (some of which are reviewed below),
 the authors will give informations about the study, and informations about
 where the data are stored, and how to access them.
 
-## Licensing issues
+## Legal issues
 
-Perhaps the point with which scientists will have the less familiarity is the
-licensing under which data should be made available. 
+Perhaps the point with which scientists will have less familiarity with is the
+licensing or waivers under which data should be made available. 
 
 <!-- % Define what is a license -->
 
 Fortunately, easy to
-understand, non-restrictive licenses exists, which are fitted to scientific
-output. The most well known family of them is the *Creative Commons* (CC).
-This family of licenses originated in the need to allow the free (as in
-speech or as in beer) 
+understand, less-restrictive licenses and waivers exist, which are fit for scientific
+outputs. The most well known family of them is the *Creative Commons* (CC) set.
+This family of licenses arose from a need to relax the default restrictions of normal 'All Rights Reserved' copyright status, to expressly allow redistribution and re-use of content on the internet [@Lessig2004].
+
 
 <!-- % I must be tired but I don't get the link with beer -->
 
-diffusion of cultural, artistic, and intellectual
-productions [@Lessig2004], and it's difficult to argue that scientific output
-do not fall within this category. [@Hrynaszkiewicz2012] proposes that factual
-data, on which no copyright can be applied, be released under the *CC-0
-waiver*, which essentially removes all copyright on the data. This particular
-licence is imposed by *Dryad* (a data repository associated with, *e.g.*, *The
-American Naturalist*) and *fig**share*** (though only for datasets). Another
-alternative is the *CC-BY* license, which allows use and reproduction of the
-data as long as the original source is explicitly mentioned (this licence is
-used for all non-data submissions in *fig**share***). Both of these licenses
-are in accordance with the Panton Principles [@Murray-Rust2010]. The *Creative
-Commons* website offers an intuitive tool to choose a license
-(`http://creativecommons.org/choose/`), although we encourage scientists to be
-aware about the pitfalls associated with the most restrictive ones
-[@Hagedorn2011]. In any case, although the *CC-0 waiver* makes it possible to
-use data without attribution, we encourage scientists not to do so, as we
-think it will effectively prevent the attribution of data, and thus decrease
-the usefulness of data sharing as a way to increase your (measured) scientific
-impact.
+[@Hrynaszkiewicz2012] remind us that copyright does not apply to factual data, and so licenses should not be applied to this data.
+Where possible it is best to apply the Creative Commons Zero (CC0) Waiver to 
+scientific data in most cases, to ensure that re-use is as frictionless and 
+legally-unencumbered as possible. The CC0 waiver does not legally force citation of data when it is re-used. Nor should it.
+No-one to our knowledge has ever sued another party for lack of academic acknowledgement of data re-use. These matters are not policed by legal courts, but rather the social and community norms of academics and thus have no need for legal protection by copyright law.
+Legally enforcing even just attribution via a licensing mechanism can and does cause *real problems* that are best avoided e.g. 'attribution stacking' [@Mietchen2012], thus CC0 is recommended for most data to avoid unnecessary complications.
+This particular waiver is used by *Dryad* (a data repository associated with, *e.g.*, *The
+American Naturalist*) and *fig**share*** (though only for datasets). Where the 
+'data' is more artistically-expressed this can, if desired, be licensed e.g. a photograph, micrograph or video. An 
+acceptable licence that minimally impedes the progress of science is the Creative Commons Attribution (*CC BY*) license, which allows use and reproduction of the
+data as long as the original data is cited in the manner specified by the author(s) and not in any way that suggests that they endorse the re-use (this licence is
+used for all non-data submissions in *fig**share***). The *Creative
+Commons* website offers an intuitive free tool to choose a license
+(`http://creativecommons.org/choose/`). We echo the above and strongly encourage scientists to be
+aware of the pitfalls associated with the other more restrictive license modules available when selecting a waiver or license.
+[@Hagedorn2011] [@Klimpel2012].
 
 # How it should be encouraged
 
