@@ -1,7 +1,5 @@
 % Moving toward a sustainable ecological science: don't let data go to waste!
-% Timothée Poisot
-  Ross Mounce
-  Dominique Gravel
+% Timothée Poisot, Ross Mounce, Dominique Gravel
 % Nov. 2012
 
 # Introduction
@@ -10,7 +8,7 @@ Claude Bernard [@Bernard1864] wrote that "art is *me*; science is *us*". This
 sentence has two meanings. First, the altruism of scientists is worth more to
 Bernard than the self-indulgence of mid-nineteenth century Parisian art scene.
 Second, and we will keep this one in mind, creativity and insights come from
-individuals, but validation and rigor are reached through collective efforts,
+individuals, but validation and rigour are reached through collective efforts,
 cross- validation, and peerage. Given enough time, the conclusions reached and
 validated by the efforts of many will take prominence over individualities,
 and this (as far as Bernard is concerned), is what science is about. With the
@@ -21,7 +19,7 @@ robust conclusions.
 
 In molecular evolution, there exists a large number of databases (*GenBank*,
 *EMBL*, *SwissProt*, and many more) in which information can be retrieved.
-Such initatives value (and promote) a new type of scientific research:
+Such initiatives value (and promote) a new type of scientific research:
 building-on and extending the raw material of others, it is now possible to
 identify new phenomenon or evaluate the generality of previously studied ones.
 The job of scientists relying on these databases is not to *make* data,
@@ -37,7 +35,7 @@ Yet in the recent years, there has been a strong signal that some
 organizations are ready to invest time and money in data sharing. For example,
 *DataONE* [@Reichman2011] is a large scale initiative, seeking to curate and
 make available observational data. We foresee that improving data sharing
-practices will be an important endeavor in the coming years, and 
+practices will be an important endeavour in the coming years, and 
 the increasing awareness of the scientific community to these practices is a timely
 topic.
 
@@ -63,17 +61,18 @@ collaborators.
 
 ## Data acquisition is (mostly) publicly funded
 
-In contrast with other fields such as energy, or pharmaceutical
-research, most ecological and evolutionary research is funded through public
-grants or charitably- funded programs. Or in other words, most research is
-dependent on taxpayers, indeed a recent HSBC report estimated that across the world 80% of research publications are funded by the public sector [@Graham2013]. In some fields, most notably conservation biology, it
-is not uncommon for volunteers to participate in data gathering. For
-example, the French temporal survey of common birds [@Jiguet2006], which
-resulted in 29 publications in peer-reviewed journals, is fed entirely through
-the work of amateur ornithologists. Given the direct (participatory) or
-indirect (financial) involvement of the public in ecological data collection,
-it is not surprising that some funding agencies have implemented data
-availability policies.
+In contrast with other fields such as energy, or pharmaceutical research, most
+ecological and evolutionary research is funded through public grants or
+charitably- funded programs. Or in other words, most research is dependent on
+taxpayers, indeed a recent HSBC report estimated that across the world 80% of
+research publications are funded by the public sector [@Graham2013]. In some
+fields, most notably conservation biology, it is not uncommon for volunteers
+to participate in data gathering. For example, the French temporal survey of
+common birds [@Jiguet2006], which resulted in 29 publications in peer-reviewed
+journals, is fed entirely through the work of amateur ornithologists. Given
+the direct (participatory) or indirect (financial) involvement of the public
+in ecological data collection, it is not surprising that some funding agencies
+have implemented data availability policies.
 
 <!-- % The worst thing is that there are such databases, collected by volunteers, are sold to researchers! -->
 
@@ -112,18 +111,16 @@ by referees about the data availability.
 
 <!-- % Similar to the above comment, there are not so many journals asking for the data (is Am Nat the only one? do they ask for the full dataset?) -->
 
-This can cause problems at all steps of the life
-of a paper. How can a paper describing a new method be adequately reviewed if
-data are not available? How can you be sure that you are correctly applying a
-method if you can't reproduce the results? 
-
-<!-- % What about cheating? It is not hard to fake data, and its certainly a way to detect potential frauds -->
-
-The movement of *reproducible research* [@Mesirov2010] advocates that a paper
-should be self-contained, *i.e.* be not only the text, but also the data, and
-the computer code to reproduce the figures. Even without going to such
-lengths, releasing data and computer code alongside a paper should be viewed
-as an ethical decision. Barnes [@Barnes2010] made the point that even though
+This can cause problems at all steps of the life of a paper. How can a paper
+describing a new method be adequately reviewed if data are not available? How
+can you be sure that you are correctly applying a method if you can't
+reproduce the results? Can increased pressure to release the full dataset will
+help identify the (admittedly rare) cases of data falsification? The movement
+of *reproducible research* [@Mesirov2010] advocates that a paper should be
+self-contained, *i.e.* be not only the text, but also the data, and the
+computer code to reproduce the figures. Even without going to such lengths,
+releasing data and computer code alongside a paper should be viewed as an
+ethical decision. Barnes [@Barnes2010] made the point that even though
 researchers are not professional programmers, computer code is good enough to
 be shared.
 
@@ -148,8 +145,6 @@ them, thus allowing to name as authors only those who analysed the data.
 
 ## Data cost money
 
-<!-- % The following sentence just made me thought about another issue: what about negative results? The publication bias in favor of positive results is an old debate. I wonder if encouraging data publication could help reducing this problem.  -->
-
 Gathering data, either in the lab or in the field, costs money, as it requires
 the acquisition and maintenance of equipments and reagents, in addition to
 salaries. In this perspective, generating new data when existing ones are
@@ -171,6 +166,21 @@ explained in a later section), and associated with standards-compliant
 metadata, will help fight this effect. Overall, by making data easier to
 access, understand, and re-use, we will decrease the flow of funding going
 into data gathering, and thus decrease the financial pressure on labs.
+
+Assuming that the increase of data sharing will result in more recognition of
+the work involved in data collection and curation (which we detail later),
+data sharing can also be a way of valorizing "negative" results. Because the
+likelihood of a paper being published depends on the significance of the
+results it reports, the publication bias in favour of positive results is well
+documented across all scientific fields, and results in the accumulation of
+statistical bias over time [@Scargle2000]. By dissociating the data from the
+paper, and recognizing data as a form of scientific production, it is possible
+to encourage the publication of "negative" results. This will allow (i) to
+produce research output even though the analysis is not conclusive (thus
+providing at least some return on investment), and (ii) to improve the
+planning of future experiments, because pre-existing data reporting both
+positive and negative outcomes will be available, thus allowing to make more
+informed decisions.
 
 # Which benefits it will bring us
 
@@ -196,14 +206,21 @@ potential impact.
 
 ## It is a significant measure of your research impact
 
-The NSF (US) Grant Proposal Guidelines for 2013 have notably stopped referring to 'Publications' and instead refer to 
-'Products' [@Piwowar2013]. This change was made specifically to make it clear to scientists that research funders now see great value in
- in research products, not *just* publications. Research products "include, but are not limited to, publications, data sets,
-software, and patents".
-Thus published, shared datasets are now 'first class research objects' as they should be (http://www.force11.org/white_paper).
-We think this is a healthy move that will soon be copied by many research funders across the world. Modern science needs more than just publications, it needs shared data to function efficiently.
-By formally recognising and encouraging applicants to put shared datasets on their CV's and show the re-use of these datasets, the NSF is recognising the immense and largely untapped value of data re-use.
-Just like publications, some datasets will be more re-used & cited than others. Thus research evaluation excercises will soon be looking to measure the impact of one's data and software, not just publications.
+The NSF (US) Grant Proposal Guidelines for 2013 have notably stopped referring
+to 'Publications' and instead refer to  'Products' [@Piwowar2013]. This change
+was made specifically to make it clear to scientists that research funders now
+see great value in research products, not *just* publications. Research products
+"include, but are not limited to, publications, data sets, software, and
+patents". Thus published, shared datasets are now 'first class research objects'
+as they should be (`http://www.force11.org/white_paper`). We think this is a
+healthy move that will soon be copied by many research funders across the world.
+Modern science needs more than just publications, it needs shared data to
+function efficiently. By formally recognising and encouraging applicants to put
+shared datasets on their CV's and show the re-use of these datasets, the NSF is
+recognising the immense and largely untapped value of data re-use. Just like
+publications, some datasets will be more re-used and cited than others. Thus
+research evaluation exercises will soon be looking to measure the impact of
+one's data and software, not just publications.
 
 # How we technically can
 
@@ -219,12 +236,8 @@ Except when they are deposited into large-scale databases, data usually live
 are usually formatted in the way where they were used to produce the few
 figures or run statistical analyses used in the published account, which is to
 say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more robust
-and sharing-friendly formats exists, which should be taken advantage of.
-
-<!-- % The following sentences are a bit nerdy and not accessible -->
-
-For example, the *JavaScript Object Notation* [@Crockford2006] allows a
-context-rich representation of data, which can be based on templates. Building
+and sharing-friendly formats exists, which should be taken advantage of as they offer an unprecedented way to organize information in a way which maximizes its accessibility. For example, the *JavaScript Object Notation* [@Crockford2006] allows a
+context-rich representation of data, which can be based on templates (thus ensuring that several groups will present their data in the same way). Building
 upon this format, a working group can put together a syntax to represent a
 given type of ecological data, then provide JSON templates for other people to
 release these data. In the ecological sciences, there are now publications
@@ -243,12 +256,8 @@ in the following section.
 
 An important obstacle is that maintaining a global database requires funding
 on a scale which is orders of magnitude higher (in terms of amount and
-duration) than what most grants will cover.
-
-<!-- % The following paragraph is also a bit abstract for someone (like me) not familiar with APIs -->
-
-The solution, building on an increased use of strict data
-specification, is to link several local databases through APIs. In short, an
+duration) than what most grants will cover. The solution, building on an increased use of strict data
+specification, is to link several local databases (*e.g.* each research group can keep and take care of its own local database) through APIs (Fig. 1). In short, an
 API is an application stored on a server, which will offer several *methods*,
 each returning a *reply*. For example, a *method* can be "retrieve all
 datasets containing species A", and the *reply* will be a list of datasets
@@ -259,7 +268,7 @@ standardized fashion. Each group implementing such a database can, in this
 situation, share the informations related to data access. Instead of putting
 the raw data on a data sharing platform (some of which are reviewed below),
 the authors will give informations about the study, and informations about
-where the data are stored, and how to access them.
+where the data are stored, and how to access them. 
 
 ## Legal issues - waivers, licenses and copyright law
 
@@ -285,7 +294,7 @@ used for all non-data submissions in *fig**share***). Concerns over the use of C
 Commons* website offers an intuitive free tool to choose a license	
 (`http://creativecommons.org/choose/`). We urge readers to take heed of the above, and strongly encourage scientists to be
 aware of the pitfalls associated with the other more restrictive license modules available when selecting a waiver or license.	
-[@Hagedorn2011] [@Klimpel2012].
+[@Hagedorn2011 ; @Klimpel2012].
 
 # How it should be encouraged
 
@@ -296,11 +305,7 @@ scientist career depend on getting its papers accepted. Although when
 possible, a bottom-up approach should always be preferred, editors have in
 their hand a formidable lever to modify our collective behavior. Some journals
 are now asking the authors to deposit their ecological data in a public
-repository [@Fairbairn2011 ; @Whitlock2010]. 
-
-<!-- % As mentionned earlier, it might be nice to list them in a table if possible -->
-
-This is mandatory for sequences
+repository [@Fairbairn2011 ; @Whitlock2010]. This is mandatory for sequences
 in all journals (*GenBank*), and similar mandatory archiving of all data in
 TreeBase, DataDryad, or FigShare is becoming a common practice. The referees
 are, however, rarely asked to evaluate if the adequate data are released, and
@@ -332,8 +337,8 @@ data as literature items.
 
 - recognition of the value of data contributions
 - one short term solution is to create data journals and consider them as papers. It does not give much credit to the contribution: one paper = one dataset. Some public data had much more important structuring roles than the original papers publishing them for the first time (e.g. BCI data)
-- Evaluation of projects and CVs: particuliar value to datasets, standing on its own just as papers and patents
-- a discussion going beyong our role as scientists: should the agencies require publication of data? Needs a more general reflexion
+- Evaluation of projects and CVs: particular value to datasets, standing on its own just as papers and patents
+- a discussion going beyond our role as scientists: should the agencies require publication of data? Needs a more general reflexion
 
 # Conclusion
 
@@ -370,9 +375,8 @@ an open *GitHub* repository (`https://github.com/tpoisot/DataSharingPaper`),
 and is archived on *fig**share***. TP is a *fig**share*** advisor. TP was
 funded by a FQRNT-MELS post-doctoral scholarship.
 
+# Legends
+
+**Fig. 1** The differences between a large, global database (*e.g.* Genbank, **A**), and the interactions between different databases (**B**). In both diagrams, arrows represent the flow of information (*i.e.* data) between users, through databases. In the first situation, a global database centralizes all of the information. In the second situation, each group maintains its local database, with which it can interact. In addition, local databases are unified through an API (here stored on the grey server), allowing every one to access the data, including replicating them on other servers to ensure redundancy.
+
 # References
-
-
-# OTHER POINTS
-- exemples of famous datasets : BCI, Hubbard Brook,
-- what about R? including datasets in statistical packages
