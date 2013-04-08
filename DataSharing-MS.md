@@ -9,7 +9,7 @@ sentence has two meanings. First, the altruism of scientists is worth more to
 Bernard than the self-indulgence of mid-nineteenth century Parisian art scene.
 Second, and we will keep this one in mind, creativity and insights come from
 individuals, but validation and rigour are reached through collective efforts,
-cross- validation, and peerage. Given enough time, the conclusions reached and
+cross-validation, and peerage. Given enough time, the conclusions reached and
 validated by the efforts of many will take prominence over individualities,
 and this (as far as Bernard is concerned), is what science is about. With the
 technology available to a modern scientist, one should expect that the
@@ -52,11 +52,15 @@ quality and visibility of the science we produce. We conclude this paper by
 showing that most of the technical aspects of data sharing can easily be
 mastered, meaning that data are ready to be liberated!
 
+<!-- DG: à vérifier, mais je crois que liberated est un francisisme. freed ou released seraient des termes plus convenables. -->
+
 # Why we ethically must
+
+<!-- DG: je me demande si le ton n'est pas un peu trop agressif. Ce sont des subtilités qui font la différence. Par exemple, le paragraphe suivant relève de la rhétorique. C'est une opinion qui est déclarée avec une telle assurance qu'elle est impersonnelle et présentée comme une vérité. Ça fait un peu hautain et je crois que ce serait plus humble d'ajouter une personnalisation, du genre "we believe that data sharing is a moral oblication". Ça peut te sembler con comme détail, mais si tu ne veux pas seulement prêcher à des convertis d'avance, il faut éviter de braquer les gens qui sont contre le sujet avec un langage qui pourrait laisser entendre une forme d'arrogance. -->
 
 An important point to make is that data sharing is a moral obligation of
 sorts. In this part, we point out the ethical aspects of data sharing, both
-with regards to other scientists, funding agencies, and your own
+with regards to other scientists, funding agencies, and 
 collaborators.
 
 ## Data acquisition is (mostly) publicly funded
@@ -64,8 +68,8 @@ collaborators.
 In contrast with other fields such as energy, or pharmaceutical research, most
 ecological and evolutionary research is funded through public grants or
 charitably- funded programs. Or in other words, most research is dependent on
-taxpayers, indeed a recent HSBC report estimated that across the world 80% of
-research publications are funded by the public sector [@Graham2013]. In some
+taxpayers. A recent HSBC report estimated that 80% of
+research publications across the world are funded by the public sector [@Graham2013]. In some
 fields, most notably conservation biology, it is not uncommon for volunteers
 to participate in data gathering. For example, the French temporal survey of
 common birds [@Jiguet2006], which resulted in 29 publications in peer-reviewed
@@ -73,6 +77,8 @@ journals, is fed entirely through the work of amateur ornithologists. Given
 the direct (participatory) or indirect (financial) involvement of the public
 in ecological data collection, it is not surprising that some funding agencies
 have implemented data availability policies.
+
+<!-- DG: C'est très français ça! ;o) Le breeding bird survey est pas mal plus connu et basé sur le même principe! -->
 
 <!-- % The worst thing is that there are such databases, collected by volunteers, are sold to researchers! -->
 
@@ -92,7 +98,7 @@ made possible through public investment must be made public. Publicly funded
 scientists, in most countries, are thus civil servants. Generating data is
 part of their job description, and there is no rational argument for which
 they should claim *property* of it. Claiming *paternity* of the data, as we
-discuss below, is a perfectly legitimate claim, but does not prevent sharing
+discuss below, is a more legitimate claim than property is, but nonetheless does not prevent sharing
 them.
 
 <!-- % Subtle but very important point at the end. Good job!
@@ -108,6 +114,7 @@ mentality, that we think only in terms of papers. Interestingly, although
 editors and referees are very careful about the way the *Materials & Methods*
 sections of a paper are worded, it is extremely rare to receive any comment
 by referees about the data availability. 
+<!-- DG: même truc qu'en haut. Ici tu mets au devant tes convictions comme étant la norme, comme si tous les referees devaient être pro data-sharing. Le point que tu fais sur la disponibilité des données pour la reproductibilité est très valide, et les refs devraient avoir accès aux données pour mieux réaliser leur boulot. Mais de là à ce qu'ils réclament les données pour les rendre publiques est une autre chose. -->
 
 <!-- % Similar to the above comment, there are not so many journals asking for the data (is Am Nat the only one? do they ask for the full dataset?) -->
 
@@ -126,7 +133,7 @@ be shared.
 
 ## It will clarify authorship
 
-It's well accepted that the final of a scientific article reflects the
+It is well accepted that the final of a scientific article reflects the
 diversity of backgrounds and scientific sensibilities of its authors
 [@McGee2011]. Yet authorship, in the sense of deciding who gets to be listed
 as an author, and in which order, is still a key issue in several
@@ -156,8 +163,8 @@ is likely to increase. [@Wicherts2006] surveyed the field of psychology, and
 showed that asking for the raw data often does not result in a successful data
 sharing outcome, even after 6 months of repeated inquiries. Authors can claim
 to have 'lost' the data, can be extremely slow to reply, can ignore emails,
-the given contact email address may be invalid and difficult to find the
-'current' contact address. Authors also die, and sadly this can result in the
+the given contact email address may be invalid and it can be difficult to find the
+'current' contact address. Authors also die or retire, and sadly this can result in the
 loss of valuable scientific data unless it has been accessibly and
 discoverably archived elsewhere. Ultimately, authors can also flat out refuse
 to give the data. The practice of releasing data into the public domain with a
@@ -167,7 +174,7 @@ metadata, will help fight this effect. Overall, by making data easier to
 access, understand, and re-use, we will decrease the flow of funding going
 into data gathering, and thus decrease the financial pressure on labs.
 
-Assuming that the increase of data sharing will result in more recognition of
+Assuming that the increase of data sharing will result in enhanced recognition of
 the work involved in data collection and curation (which we detail later),
 data sharing can also be a way of valorizing "negative" results. Because the
 likelihood of a paper being published depends on the significance of the
@@ -181,6 +188,8 @@ providing at least some return on investment), and (ii) to improve the
 planning of future experiments, because pre-existing data reporting both
 positive and negative outcomes will be available, thus allowing to make more
 informed decisions.
+
+<!-- DG: j'ai eu une intéressante discussion avec Nico sur ce sujet et je n'ai pas partagé son opinion. Il est favorable à une catégorisation des jeux de données, comme on classe les papiers par les journaux où ils sont publiés. Autrement dit, il aimerait distinguer les bons des moins bons jeux de données. Ça pose plusieurs problèmes. D'abord, ça contribue à maintenir cette marchandisation, cette capitalisation de la science. Ensuite, il faut parvenir objectivement à classer les données. C'est difficile de le faire, surtout que des données peuvent être de mauvaises qualité pour une utilisation et de bonne qualité pour une autre -->
 
 # Which benefits it will bring us
 
@@ -206,12 +215,14 @@ potential impact.
 
 ## It is a significant measure of your research impact
 
-The NSF (US) Grant Proposal Guidelines for 2013 have notably stopped referring
+The NSF (US) Grant Proposal Guidelines for 2013 stopped referring
 to 'Publications' and instead refer to  'Products' [@Piwowar2013]. This change
-was made specifically to make it clear to scientists that research funders now
+was specifically perforemd to make it clear to scientists that research funders now
 see great value in research products, not *just* publications. Research products
 "include, but are not limited to, publications, data sets, software, and
-patents". Thus published, shared datasets are now 'first class research objects'
+patents". 
+<!-- DG: il faut donner la page où se trouve la citation -->
+Thus published, shared datasets are now 'first class research objects'
 as they should be (`http://www.force11.org/white_paper`). We think this is a
 healthy move that will soon be copied by many research funders across the world.
 Modern science needs more than just publications, it needs shared data to
@@ -226,7 +237,7 @@ one's data and software, not just publications.
 
 In addition to the ethical and pragmatic arguments made above, we
 engage here in a more technical reflexion about how we should include data
-sharing early in the studies, so as to generate data in a format allowing their
+sharing early in the communication of scientific studies, so as to generate data in a format allowing their
 re-usability. We also briefly discuss the different licensing options.
 
 ## Data representation
@@ -236,21 +247,22 @@ Except when they are deposited into large-scale databases, data usually live
 are usually formatted in the way where they were used to produce the few
 figures or run statistical analyses used in the published account, which is to
 say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more robust
-and sharing-friendly formats exists, which should be taken advantage of as they offer an unprecedented way to organize information in a way which maximizes its accessibility. For example, the *JavaScript Object Notation* [@Crockford2006] allows a
+and sharing-friendly formats exist, which should be taken advantage of as they offer an unprecedented way to organize information in a way maximizing accessibility. For example, the *JavaScript Object Notation* (JSON) [@Crockford2006] allows a
 context-rich representation of data, which can be based on templates (thus ensuring that several groups will present their data in the same way). Building
 upon this format, a working group can put together a syntax to represent a
 given type of ecological data, then provide JSON templates for other people to
 release these data. In the ecological sciences, there are now publications
-outlets focused only on methodological papers (*Methods in Ecology and
+outlets focused only on methodological papers (e.g. *Methods in Ecology and
 Evolution*, and to some extent *BMC Bioinformatics*), and several other
-journals have sections for methodological papers. JSON parsers exists for
+journals have sections for methodological papers. JSON parsers exist for
 almost all languages (notably C, Python, R, Java), which means that different
 applications will be able to access the shared information. Under this
 perspective, it is possible to build local databases. As long as they respect
-the specification, groups only need to share the access to these databases, to
-enable all scientists to access the data. A "global" access can still be
-achieved by wrapping all of the local data sources, though an API, as detailed
+the specification, groups only need to share the access to these databases. A "global" access can still be
+achieved by wrapping all of the local data sources, through an API, as detailed
 in the following section.
+
+<!-- DG: ce serait pertinent de définir ce qu'est une "specification" des donnes. -->
 
 ## Database linkage
 
@@ -263,9 +275,9 @@ each returning a *reply*. For example, a *method* can be "retrieve all
 datasets containing species A", and the *reply* will be a list of datasets
 identifiers. If a particular data format is applied to more than one
 database, it becomes possible to query them at once. Under this perspective,
-the origin of the data do not matter, because the API will return them in a
+the origin of the data does not matter, because the API will return them in a
 standardized fashion. Each group implementing such a database can, in this
-situation, share the informations related to data access. Instead of putting
+situation, share the information related to data access. Instead of putting
 the raw data on a data sharing platform (some of which are reviewed below),
 the authors will give informations about the study, and informations about
 where the data are stored, and how to access them. 
@@ -283,27 +295,31 @@ This family of licenses arose from a need to relax the default restrictions of n
 Where possible it is best to apply the Creative Commons Zero (CC0) Waiver to 
 scientific data in most cases, to ensure that re-use is as frictionless and 	
 legally-unencumbered as possible. The CC0 waiver does not legally force citation of data when it is re-used. Nor should it.	
-No-one to our knowledge has ever sued another party for lack of academic acknowledgement of data re-use. These matters are not policed by legal courts, but rather the social and community norms of academics and thus have no need for legal protection by copyright law.
+No one to our knowledge has ever sued another party for lack of academic acknowledgement of data re-use.
+<!-- DG: c'est pas une blague, je connais quelqu'un qui s'est fait envoyé une mise en demeure pour ne pas avoir cité un papier ! -->
+These matters are not policed by legal courts, but rather the social and community norms of academics and thus have no need for legal protection by copyright law.
 Legally enforcing even just attribution via a licensing mechanism can and does cause *real problems* that are best avoided e.g. 'attribution stacking' [@Mietchen2012], thus CC0 is recommended for most data to avoid unnecessary complications.	
 This particular waiver is used by *Dryad* (a data repository associated with, *e.g.*, *The
-American Naturalist*) and *fig**share*** (though only for datasets). Where the 	
+American Naturalist*) and *fig**share*** (though only for datasets). 
+<!-- DG: je ne comprends pas la phrase suivante -->
+Where the 	
 'data' is more artistically-expressed this can, if desired, be licensed e.g. a photograph, micrograph or video. An 	
-acceptable licence that minimally impedes the progress of science is the Creative Commons Attribution (*CC BY*) license, which allows use and reproduction of the
+acceptable licence that minimally impedes science progress is the Creative Commons Attribution (*CC BY*) license, which allows use and reproduction of the
 data as long as the original data is cited in the manner specified by the author(s) and not in any way that suggests that they endorse the re-use (this licence is	
 used for all non-data submissions in *fig**share***). Concerns over the use of CC BY in academia have been exhaustively answered by Creative Commons recently as so many academics in the UK were confused [@CreativeCommons2013]. The *Creative
 Commons* website offers an intuitive free tool to choose a license	
 (`http://creativecommons.org/choose/`). We urge readers to take heed of the above, and strongly encourage scientists to be
-aware of the pitfalls associated with the other more restrictive license modules available when selecting a waiver or license.	
+aware of the pitfalls associated with the other more restrictive license modules available when selecting one.	
 [@Hagedorn2011 ; @Klimpel2012].
 
 # How it should be encouraged
 
 ## The role of journals
 
-Journals are in the best position to make things move [@Vision2010], because a
-scientist career depend on getting its papers accepted. Although when
-possible, a bottom-up approach should always be preferred, editors have in
-their hand a formidable lever to modify our collective behavior. Some journals
+Journals are in the best position to make things move [@Vision2010] because a
+scientist career depend on getting his work published. Although a bottom-up approach should always be preferred when
+possible, editors have in
+their hand a powerful lever to modify our collective behavior. Some journals
 are now asking the authors to deposit their ecological data in a public
 repository [@Fairbairn2011 ; @Whitlock2010]. This is mandatory for sequences
 in all journals (*GenBank*), and similar mandatory archiving of all data in
@@ -340,6 +356,8 @@ data as literature items.
 - Evaluation of projects and CVs: particular value to datasets, standing on its own just as papers and patents
 - a discussion going beyond our role as scientists: should the agencies require publication of data? Needs a more general reflexion
 
+<!-- DG: Coming back to a point I made earlier. I strongly promote a bottom up approach. We are debating over opinions here so we have to respect other ones. What we really need are mechanisms that will value data sharing and motivate individuals to go along that way. Forcing them will be fruitless. -->
+
 # Conclusion
 
 In the last two years, there were an important number of media outbursts, and
@@ -361,10 +379,10 @@ boxes, in which data are put to collect some dust. Whether this happens in the
 hard-drive of a scientist or in a well-maintained repository only differs in
 the fact that the later solution comes with a DOI. We think that the process
 or making data available should be called in a way which reflects its
-objectives: *data sharing*. We have the technology in place to give data a
+objective: *data sharing*. We have the technology in place to give data a
 second life, in which the scientific community can appropriate them, recognize
 the paternity of those who generated them, and acknowledge this through
-citations. Data are all we care about. They make our papers possible. They
+citations. Data are all we care about. They make science possible. They
 bring answers to our questions, and much better, questions to our answers.
 After serving us so well, they deserve better than to be *archived*.
 

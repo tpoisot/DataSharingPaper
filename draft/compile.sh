@@ -1,0 +1,1 @@
+pandoc DataSharing-MS.md -o DataSharing.pdf --bibliography=ref.bib
