@@ -242,15 +242,18 @@ Except when they are deposited into large-scale databases, data usually live
 (in various states of dormancy) on the hard drives of researchers. These data
 are usually formatted in the way where they were used to produce the few
 figures or run statistical analyses used in the published account, which is to
-say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more robust
-and sharing-friendly formats exist, which should be taken advantage of as they
-offer an unprecedented way to organize information in a way maximizing
-accessibility. For example, the *JavaScript Object Notation* (JSON)
-[@Crockford2006] allows a context-rich representation of data, which can be
-based on templates (thus ensuring that several groups will present their data
-in the same way). Building upon this format, a working group can put together
-a syntax to represent a given type of ecological data, then provide JSON
-templates for other people to release these data. In the ecological sciences,
+say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more
+robust and sharing-friendly formats exist, which should be taken advantage
+of as they offer an unprecedented way to organize information in a way
+maximizing accessibility. For example, the *JavaScript Object Notation*
+(JSON) [@Crockford2006] allows a context-rich representation of data, which
+can be based on templates (thus ensuring that several groups will present
+their data in the same way). Building upon this format, a working
+group can put together a syntax to represent a given type of ecological
+data, then provide JSON templates for other people to release these data.
+JSON templates (i) serve as a data-specification, and (ii) can validate the
+data, thus ensuring that no errors have been made. In addition, JSON is the
+*de facto* standard format in most APIs. In the ecological sciences,
 there are now publications outlets focused only on methodological papers (e.g.
 *Methods in Ecology and Evolution*, and to some extent *BMC Bioinformatics*),
 and several other journals have sections for methodological papers. JSON
