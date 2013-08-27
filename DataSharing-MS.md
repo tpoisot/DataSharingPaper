@@ -404,17 +404,21 @@ in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 
 When journal editors started publicly discussing the matter, they called this
 *data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other
-scientists not to use this expression. Data *archiving* evocate cardboard
-boxes, in which data are put to collect some dust. Whether this happens in the
-hard-drive of a scientist or in a well-maintained repository only differs in
-the fact that the later solution comes with a DOI. We think that the process
-or making data available should be called in a way which reflects its
-objective: *data sharing*. We have the technology in place to give data a
-second life, in which the scientific community can appropriate them, recognize
-the paternity of those who generated them, and acknowledge this through
-citations. Data are all we care about. They make science possible. They
-bring answers to our questions, and much better, questions to our answers.
-After serving us so well, they deserve better than to be *archived*.
+scientists not to use this expression too much. Data *archiving* evocate
+cardboard boxes, in which data are put to collect some dust. Whether this
+happens in the hard-drive of a scientist or in a well-maintained repository
+only differs in the fact that the later solution comes with a DOI. We think
+that the process or making data available should be called in a way which
+reflects its objective: *data sharing*. We have the technology in place to give
+data a second life, in which the scientific community can appropriate them,
+recognize the paternity of those who generated them, and acknowledge this
+through citations. Data are all we care about. They make science, and
+especially in such data-hungry fields as ecology, possible. Sharing them
+ensure that people needing data to feed models, test routines, or perform
+meta-analyses can do that, and people contributing these data are
+recognized for their effort. Data bring answers to our questions, and much
+better, questions to our answers. After serving us so well, they deserve
+better than to be *archived*.
 
 **Acknowledgments**: 
 We thank Karthik Ram for offering us the opportunity to write this paper, and
