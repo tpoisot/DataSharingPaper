@@ -26,15 +26,16 @@ revision of our paper**.
 
 Ref. 1 argues against JSON as a robust format for data interchange. This is
 a baffling position, for several reasons. JSON, over several other formats
-proposed by the referee, can be validated against schemes. This ensures that
-the data are syntactically correct. In addition, the scheme describes the
+proposed by the referee, can be validated against schemes (in addition to the
+fact that, contrary to CSV, it has a formal specification). This ensures
+that the data are syntactically correct. In addition, the scheme describes the
 data format and typing, and as such serves as its own data-specification.
 Although a JSON object is, as the ref. says, not self-descriptive, the
-combination of JSON and a scheme, with the possibility of automatic
-validation, is. Regardless of the quality check allowed by JSON + schemes,
-this format emerged as a *de facto* standard for API, which already are
-the favorite way to interact with large, open datasets. **We reinforced
-the case for JSON in the paper**.
+combination of JSON and a scheme, with the possibility of automatic validation,
+is. Regardless of the quality check allowed by JSON + schemes, this
+format emerged as a *de facto* standard for API, which already are
+the favorite way to interact with large, open datasets. **We
+reinforced the case for JSON in the paper**.
 
 The referee point abou *archiving* vs. *sharing* reflects its own opinion. As
 this is an opinion paper, we take the risk of irritating some readers by our

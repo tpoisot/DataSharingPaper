@@ -212,7 +212,7 @@ sharing data, we are exposed to a higher risk of our research being ignored,
 simply because other people cannot re-use or re-examine the data. By
 developing a culture of data sharing, and adequate citation of the datasets
 re-used, the origin of the data (and thus their paternity) will be made clear.
-It seems that by reserving intellectual *property* rights over data, there are
+It seems that by reserving intellectual *property* rights over data (although data cannot be considered as proprty), there are
 real risks of data not getting the usage it deserves, reducing scientists
 potential impact.
 
@@ -220,15 +220,16 @@ potential impact.
 
 In our experience, releasing computer code (either scripts or full-featured
 packages) alongside a paper is a good way to get people to reproduce your
-work, and to use your results to build on. Some of these interactions result
-in collaborations, or in exchanges casting a new light on your previous work.
-In the same vein, releasing your data will allow people to explore new
+work, and to use your results to build on (if only because it lowers the
+technical barrier to reproduce the approach). Some of these interactions
+result in collaborations, or in exchanges casting a new light on your previous
+work. In the same vein, releasing your data will allow people to explore new
 questions using them, which can potentially (i) lead them to interact with you
 so as to better exploit them, and (ii) show how your data can still provide
 valuable insights after you are done publishing them. The flow of data across
 research group is a promising way to increase the diversity of collaborations,
-which is viewed favorably by grant agencies [@Lortie2012], and to a lesser
-extent, associated with higher citation rates [@Leimu2005].
+which is viewed favorably by grant agencies [@Lortie2012], and to
+a lesser extent, associated with higher citation rates [@Leimu2005].
 
 ## It is a significant measure of your research impact
 
@@ -262,20 +263,24 @@ Except when they are deposited into large-scale databases, data usually live
 (in various states of dormancy) on the hard drives of researchers. These data
 are usually formatted in the way where they were used to produce the few
 figures or run statistical analyses used in the published account, which is to
-say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Yet, more robust
-and sharing-friendly formats exist, which should be taken advantage of as they
-offer an unprecedented way to organize information in a way maximizing
-accessibility. For example, the *JavaScript Object Notation* (JSON)
-[@Crockford2006] allows a context-rich representation of data, which can be
-based on templates (thus ensuring that several groups will present their
-data in the same way). Building upon this format, a working group can
-put together a syntax to represent a given type of ecological data, then
-provide JSON templates for other people to release these data. JSON
-templates (i) serve as a data-specification, and (ii) can validate the data,
-thus ensuring that no errors have been made. In addition, JSON is the *de
-facto* standard format in most APIs (Application Programming Interface,
-essentially a common, well-documented way to interact with, and
-re-use, a particular application or data-base). In the ecological
+say mostly as a spreadsheet, or a raw text file [@Akmon2011]. Probably one of
+the most commonly used, the CSV (Comma separated values) format, is introducing
+significant risks for errors, notably because it lacks a formal specification
+(the chief problem being that the field delimiter will vary with the computer
+locale, and can interfere badly with the decimal separator or text
+characters). Yet, more robust and sharing-friendly formats exist, which should
+be taken advantage of as they offer an unprecedented way to organize
+information in a way maximizing accessibility. For example, the *JavaScript
+Object Notation* (JSON) [@Crockford2006] allows a context-rich representation
+of data, which can be based on templates (thus ensuring that several groups
+will present their data in the same way). Building upon this format,
+a working group can put together a syntax to represent a given type of
+ecological data, then provide JSON templates for other people to release
+these data. JSON templates (i) serve as a data-specification, and (ii) can
+validate the data, thus ensuring that no errors have been made. In addition,
+JSON is the *de facto* standard format in most APIs (Application Programming
+Interface, essentially a common, well-documented way to interact with,
+and re-use, a particular application or data-base). In the ecological
 sciences, there are now publications outlets focused only on methodological
 papers (e.g. *Methods in Ecology and Evolution*, and to some extent *BMC
 Bioinformatics*), and several other journals have sections for
@@ -289,26 +294,32 @@ sources, through an API, as detailed in the following section.
 
 ## Database linkage
 
-An important obstacle is that maintaining a global database requires funding
-on a scale which is orders of magnitude higher (in terms of amount and
-duration) than what most grants will cover. The solution, building on an
-increased use of strict data specification, is to link several local databases
-(*e.g.* each research group can keep and take care of its own local database)
-through APIs (Fig. 1). In short, an API is an application stored on a server,
-which will offer several *methods*, each returning a *reply*. For example, a
-*method* can be "retrieve all datasets containing species A", and the *reply*
-will be a list of datasets identifiers. If a particular data format is applied
-to more than one database, it becomes possible to query them at once. Under
-this perspective, the origin of the data does not matter, because the API will
-return them in a standardized fashion. Each group implementing such a database
-can, in this situation, share the information related to data access. Instead
-of putting the raw data on a data sharing platform (some of which are reviewed
-below), the authors will give informations about the study, and informations
-about where the data are stored, and how to access them.
+An important obstacle is that maintaining a global database requires funding on
+a scale which is orders of magnitude higher (in terms of amount and duration)
+than what most grants will cover. The solution, building on an increased use
+of strict data specification, is to link several local databases (*e.g.*
+each research group can keep and take care of its own local database)
+through APIs (Fig. 1). In short, an API is an interface to application
+stored on a server, which will offer several *methods*, each returning
+a *reply*. For example, a *method* can be "retrieve all datasets containing
+species A", and the *reply* will be a list of datasets identifiers. If
+a particular data format is applied to more than one database, it becomes
+possible to query them at once. Under this perspective, the origin of the
+data does not matter, because the API will return them in a standardized
+fashion. When coupled with a data specification, this allows for seamless
+integration of different data sources. Each group implementing such
+a database can, in this situation, share the information related to data
+access. Instead of putting the raw data on a data sharing platform (some of
+which are reviewed below), the authors will give informations about
+the study, and informations about where the data are stored, and how to
+access them. Ideally, a good data exchange service will be agnostic to the
+location of the data. As soon as a specification is fixed, and used
+consistently, users can query both sharing platforms and home-grown
+database, as long as they know where the resource is located.
 
 ## Legal issues - waivers, licenses and copyright law
 
-Perhaps the point with which scientists will have less familiarity with is the
+Perhaps the point with which scientists will have less familiarity is the
 licensing or waivers under which data should be made available. Broadly
 speaking, a license is a text legally defining how content can be used,
 modified, and distributed. Fortunately, easy to understand, non-restrictive
@@ -318,11 +329,11 @@ arose from a need to relax the default restrictions of normal 'All Rights
 Reserved' copyright status, to expressly allow redistribution and re-use of
 content on the internet within the framework of existing copyright law
 [@Lessig2004]. [@Hrynaszkiewicz2012] remind us that copyright does not apply
-to factual data, and so licenses should not be applied to this data.   Where
+to factual data, and so licenses should not be applied to this data. Where
 possible it is best to apply the Creative Commons Zero (CC0) Waiver to
 scientific data in most cases, to ensure that re-use is as frictionless and
 legally-unencumbered as possible. The CC0 waiver does not legally force
-citation of data when it is re-used. Nor should it.    No one to our knowledge
+citation of data when it is re-used. Nor should it. No one to our knowledge
 has ever sued another party for lack of academic acknowledgment of data re-
 use.
 
@@ -333,13 +344,13 @@ mechanism can and does cause *real problems* that are best avoided e.g.
 'attribution stacking' [@Mietchen2012], thus CC0 is recommended for most data
 to avoid unnecessary complications. This particular waiver is used by
 *Dryad* (a data repository associated with, *e.g.*, *The American Naturalist*)
-and *fig**share*** (though only for datasets).  Where the 'data' is more
+and *fig**share*** (though only for datasets).  Where the 'data' are more
 artistically-expressed (a prime example is color plates of organism pictures)
-this can, if desired, be licensed. An acceptable license that minimally
+they are covered under copyright law, and can if desired, be licensed. An acceptable license that minimally
 impedes science progress is the Creative Commons Attribution (*CC BY*)
 license, which allows use and reproduction of the data as long as the original
 data is cited in the manner specified by the author(s) and not in any way that
-suggests that they endorse the re-use (this license is    used for all non-
+suggests that they endorse the re-use (this license is used for all non-
 data submissions in *fig**share***). Concerns over the use of CC BY in
 academia have been exhaustively answered by Creative Commons recently as so
 many academics in the UK were confused (`http://wiki.creativecommons.org/Data`). The *Creative
@@ -354,7 +365,7 @@ selecting one [@Hagedorn2011 ; @Klimpel2012].
 ## The role of journals
 
 Journals are in the best position to make things move [@Vision2010] because a
-scientist career depend on getting his work published. Although a bottom-up
+scientist's career depend on getting his work published. Although a bottom-up
 approach should always be preferred when possible, editors have in their hand
 a powerful lever to modify our collective behavior. Some journals are now
 asking the authors to deposit their ecological data in a public repository
@@ -404,14 +415,19 @@ publication" research products can make all the difference.
 
 On the other hand, there is a need for a collective discussion between
 scientists and funding agencies. In addition to recognizing the value of data,
-should agencies *request* their availability as a condition to obtain a grant?
-Round-tables between ecologists and representative of funding agencies during
-large ecological meetings (*ESA*, *INTECOL*, *EEF*, *BES* for example) can be
-a productive step forward, and can help drafting recommendations which will
-improve our data sharing practices. However, it is important that not much
-coerciveness goes in these measures, as it can render some needlessly hostile
-to the logic of data sharing, which in our opinion would only hinder
-scientific advancement.
+should agencies *request* their availability as a condition to
+obtain a grant? Round-tables between ecologists and representative
+of funding agencies during large ecological meetings (*ESA*,
+*INTECOL*, *EEF*, *BES* for example) can be a productive step
+forward, and can help drafting recommendations which will improve
+our data sharing practices. However, it is important that not much
+coerciveness goes in these measures, as it can render some
+needlessly hostile to the logic of data sharing, which in our
+opinion would only hinder scientific advancement. Although we
+clearly would appreciate enforcement of data sharing policies by
+funders, we think that this should be accompanied by a didactic
+effort to make the point that there are few downsides to data
+sharing.
 
 # Conclusion
 
@@ -427,7 +443,7 @@ carcinogenicity of GM maize [@Seralini2012] was thickened by the refusal of
 both sides (Monsanto and the French research group) to release the full data,
 in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 
-When journal editors started publicly discussing the matter, they called this
+When journal editors publicly discussed the matter, they called this
 *data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other
 scientists not to use this expression too much. Data *archiving* evokes
 cardboard boxes, in which data are put to collect some dust. Whether this
