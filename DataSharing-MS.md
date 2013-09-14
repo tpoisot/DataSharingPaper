@@ -227,7 +227,7 @@ work. In the same vein, releasing your data will allow people to explore new
 questions using them, which can potentially (i) lead them to interact with you
 so as to better exploit them, and (ii) show how your data can still provide
 valuable insights after you are done publishing them. The flow of data across
-research group is a promising way to increase the diversity of collaborations,
+research groups is a promising way to increase the diversity of collaborations,
 which is viewed favorably by grant agencies [@Lortie2012], and to
 a lesser extent, associated with higher citation rates [@Leimu2005].
 
