@@ -365,12 +365,12 @@ selecting one [@Hagedorn2011 ; @Klimpel2012].
 ## The role of journals
 
 Journals are in the best position to make things move [@Vision2010] because a
-scientist's career depend on getting his work published. Although a bottom-up
+scientist's career progression depends on getting their work published. Although a bottom-up
 approach should always be preferred when possible, editors have in their hand
 a powerful lever to modify our collective behavior. Some journals are now
 asking the authors to deposit their ecological data in a public repository
 [@Fairbairn2011 ; @Whitlock2010]. This is mandatory for sequences in all
-journals (*GenBank*), and similar mandatory archiving of all data in TreeBase,
+journals (*GenBank*), and similar mandatory archiving of all data in TreeBASE,
 DataDryad, or FigShare is becoming a common practice. The referees are,
 however, rarely asked to evaluate if the adequate data are released, and even
 more rarely given access to the data during the evaluation process. About this
@@ -379,16 +379,15 @@ platforms, to allow referees to anonymously access the data, should be
 encouraged. In practice, authors are still free to release summary statistics
 instead of raw data, which allows to reproduce the paper, but not to confirm
 the validity of the approach. There are however signals that things are
-changing. The *Nature* journals family will implement a more robust data
-sharing policy, effective in May 2013, to reduce the irreproducibility of life
+changing. The *Nature* family of journals will implement a more robust data
+sharing policy, effective from May 2013, aiming to reduce the irreproducibility of life
 science papers [@NPG2013].
 
-Journal-led mandates cannot be the only solution used. When compliance with
+However, journal-led mandates cannot solely be relied-upon as the only measure used to get 100% data sharing. When compliance with
 journal stipulations are retrospectively checked, even clinical trials data
 compliance [@Prayle2012] and *GenBank* archiving of data are not universally
 adhered to, even in the 'best' journals of highest reputation [@Noor2006].
-Journals must take care that data archiving mandates are enforced and not just
-'rhetoric', be it through increased editorial control, or by asking the
+Journals must take care that data archiving mandates are enforced and are not just fashionable 'rhetoric', be it through increased editorial control, or by asking the
 referees to evaluate the data sharing plans. In addition, journals should
 implement incentives for authors to cite the datasets, and not just the paper
 to which they are attached. Strong limitations on the number of references can
