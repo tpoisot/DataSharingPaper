@@ -29,9 +29,9 @@ existence of public, free, online repositories. Depositing data in public
 repositories is so deeply ingrained in the culture of these disciplines that
 the "debate" on data sharing is non-existent. It is sadly impossible to be
 as enthusiastic when looking at current practices in ecology. Although there
-are many repositories available, their usage is entirely compulsory (*i.e.*
-let to the good will of authors), and there is often no way to have
-programmatic interactions with the data. This, in our opinion, goes a long
+are many repositories available, their usage is entirely voluntary (*i.e.*
+left to the good will of authors), and there is often no way to have
+programmatic interaction with the data. This, in our opinion, goes a long
 way in explaining why there is no widespread data sharing culture among
 ecologists. Yet in the recent years, there has been a strong signal that
 some organizations are ready to invest time and money in data sharing. For
