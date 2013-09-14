@@ -17,7 +17,7 @@ dissolution of *me* would be accelerated, and that several scientists should
 be able to cast a critical eye on data, and use this collective effort to draw
 robust conclusions.
 
-In molecular evolution, there exists a large number of databases (*GenBank*,
+In molecular evolution, there exist a large number of databases (*GenBank*,
 *EMBL*, *SwissProt*, and many more) in which information can be
 retrieved. Such initiatives value (and promote) a new type of scientific
 research: building-on and extending the raw material of others, it is now
