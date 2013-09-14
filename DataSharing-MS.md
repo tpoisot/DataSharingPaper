@@ -184,7 +184,7 @@ results it reports, the publication bias in favor of positive results is well
 documented across all scientific fields, and results in the accumulation of
 statistical bias over time [@Scargle2000]. By dissociating the data from the
 paper, and recognizing data as a form of scientific production, it is possible
-to encourage the publication of "negative" results. This will allow (i) to
+to encourage the publication of "negative" results. This will allow us (i) to
 produce research output even though the analysis is not conclusive (thus
 providing at least some return on investment), and (ii) to improve the
 planning of future experiments, because pre-existing data reporting both
