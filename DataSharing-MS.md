@@ -405,11 +405,8 @@ data as literature items.
 In our opinion, the first step that funding agencies can take to encourage
 good data sharing practices is to recognize the value of data contributions.
 We outlined some initiatives in this sense earlier in the text. In this
-perspective, the fact that datasets can be attributed a DOI, which allows one
-to cite them, is an important step forward. This allows to measure the long-
-term impact of a dataset, by following how citations accumulate. Especially
-for early-career scientists, it is frequent that the computer code of the
-datasets are available long before the paper is even in press. When applying
+perspective, the fact that datasets can be attributed a DOI is an important step forward. DOI's make it much easier to track the citation and impact of a dataset. Especially
+for early-career scientists, it is common to find that the computer code relating to datasets are available long before the paper is even in press. When applying
 to grants or positions, whether the funding agency recognizes "non-
 publication" research products can make all the difference.
 
@@ -427,7 +424,7 @@ opinion would only hinder scientific advancement. Although we
 clearly would appreciate enforcement of data sharing policies by
 funders, we think that this should be accompanied by a didactic
 effort to make the point that there are few downsides to data
-sharing.
+sharing and a multitude of potential benefits.
 
 # Conclusion
 
