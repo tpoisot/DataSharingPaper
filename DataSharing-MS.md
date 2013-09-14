@@ -48,7 +48,7 @@ the exchange of data between groups is a widespread practice, we must be aware
 that it creates an intrinsic inequalities: those with good contacts have access
 to datasets, while other are left out. It would make sense that we collectively
 decide to abandon this practice, in favor of depositing data in open, free to
-access repositories. The recent emergence of several data-sharing platform
+access repositories. The recent emergence of several data-sharing platforms 
 (*DataDryad*, *figshare*), and the increase of mainstream attention they now
 receive, are the beginning of a disruption in the way we exchange and re-use
 data, that ecologists would benefit from. We illustrate how simple steps can be
