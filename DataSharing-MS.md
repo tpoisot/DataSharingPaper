@@ -328,7 +328,7 @@ family of them is the *Creative Commons* (CC) set.  This family of licenses
 arose from a need to relax the default restrictions of normal 'All Rights
 Reserved' copyright status, to expressly allow redistribution and re-use of
 content on the internet within the framework of existing copyright law
-[@Lessig2004]. [@Hrynaszkiewicz2012] remind us that copyright does not apply
+[@Lessig2004]. [@Hrynaszkiewicz2012] reminds us that copyright does not apply
 to factual data, and so licenses should not be applied to this data. Where
 possible it is best to apply the Creative Commons Zero (CC0) Waiver to
 scientific data in most cases, to ensure that re-use is as frictionless and
@@ -345,20 +345,14 @@ mechanism can and does cause *real problems* that are best avoided e.g.
 to avoid unnecessary complications. This particular waiver is used by
 *Dryad* (a data repository associated with, *e.g.*, *The American Naturalist*)
 and *fig**share*** (though only for datasets).  Where the 'data' are more
-artistically-expressed (a prime example is color plates of organism pictures)
+artistically-expressed (a prime example is color plates of organisms)
 they are covered under copyright law, and can if desired, be licensed. An acceptable license that minimally
-impedes science progress is the Creative Commons Attribution (*CC BY*)
+impedes scientific re-use is the Creative Commons Attribution (*CC BY*)
 license, which allows use and reproduction of the data as long as the original
 data is cited in the manner specified by the author(s) and not in any way that
 suggests that they endorse the re-use (this license is used for all non-
-data submissions in *fig**share***). Concerns over the use of CC BY in
-academia have been exhaustively answered by Creative Commons recently as so
-many academics in the UK were confused (`http://wiki.creativecommons.org/Data`). The *Creative
-Commons* website offers an intuitive free tool to choose a license
-(`http://creativecommons.org/choose/`). We urge readers to take heed of the
-above, and strongly encourage scientists to be aware of the pitfalls
-associated with the other more restrictive license modules available when
-selecting one [@Hagedorn2011 ; @Klimpel2012].
+data submissions in *fig**share***). We encourage researchers to be aware of the pitfalls
+associated with the other more restrictive CC-license modules available when choosing a license for their works [@Hagedorn2011 ; @Klimpel2012].
 
 # How it should be encouraged
 
