@@ -446,10 +446,10 @@ in addition to many undisclosed conflicts of interests [@Meldolesi2012].
 When journal editors publicly discussed the matter, they called this
 *data archiving* [@Fairbairn2011 ; @Whitlock2010]. We would exhort other
 scientists not to use this expression too much. Data *archiving* evokes
-cardboard boxes, in which data are put to collect some dust. Whether this
+cardboard boxes, in which data are put to collect dust, unused. Whether this
 happens in the hard-drive of a scientist or in a well-maintained repository
 only differs in the fact that the later solution comes with a DOI. We think
-that the process or making data available should be called in a way which
+that the process of making data available should be called in a manner which 
 reflects its objective: *data sharing*. We have the technology in place to give
 data a second life, in which the scientific community can appropriate them,
 recognize the paternity of those who generated them, and acknowledge this
