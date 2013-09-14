@@ -57,7 +57,7 @@ encourage its practice of at different levels [@Whitlock2010], and data
 citation, to encourage and reward sharing. Our most important point is that
 through sharing more data, we will increase both the quality and visibility of
 the science we produce. The contribution of synthesis centers, like NCEAS or
-NimBIOS, or NESCENT, speaks volume in support of this point, so one can only
+NimBIOS, or NESCent, speaks volume in support of this point, so one can only
 wonder how this impact would be increased if all the data collected had been
 made publicly available. We conclude this paper by showing that most of the
 technical aspects of data sharing can easily be mastered, meaning that data are
