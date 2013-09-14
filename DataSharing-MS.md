@@ -123,8 +123,8 @@ data, there is no certainty that the results can be reproduced.
 This can cause problems at all steps of the life of a paper. How can a paper
 describing a new method be adequately reviewed if data are not available? How
 can you be sure that you are correctly applying a method if you can't reproduce
-the results? Can increased pressure to release the full dataset will help
-identify the (admittedly rare) cases of data falsification? The movement of
+the results? Releasing the full dataset may help
+identify (admittedly rare) cases of data falsification. The movement of
 *reproducible research* [see *e.g.* @Mesirov2010 for a recent perspective]
 advocates that a paper should be self-contained, *i.e.* be not only the text,
 but also the data, and the computer code to reproduce the figures.
