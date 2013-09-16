@@ -1,4 +1,4 @@
-% Moving toward a sustainable ecological science: don't let data go to waste!
+%Moving toward a sustainable ecological science: don't let data go to waste!
 % Timothée Poisot, Ross Mounce, Dominique Gravel
 % Nov. 2012
 
@@ -450,6 +450,40 @@ meta-analyses can do that, and people contributing these data are
 recognized for their effort. Data bring answers to our questions, and much
 better, questions to our answers. After serving us so well, they deserve
 better than to be *archived*.
+
+# Response to referee
+
+In their response paper, Moles and colleagues argue that publication of
+datasets "is not always virtuous", if you happen to publish data gathered by
+other people. We agree that in the context of long-term ecological research,
+the list of contributors to the data will grow in a probably saturating
+manner over time. Some of these contributors may disagree with the
+sharing of data, and data transfer agreements may actually prevent data
+sharing. It seems clear to us that the problem lies with preventing the
+release of data, not with data sharing. First, as we mention in the
+paper, asserting proprty over data will (and indeed already does) creates
+cliques of scientists, in which accessibility to research material is
+based on personnal connections. It is hard to argue that this practice is
+a tolerable one. Second, data are not property, so the whole point
+appears to be moot. Restrictive data transfer agreements contribute to
+the wrongful idea that data belong to the scientist(s) responsible for
+collecting them. The virtuous thing to do, with regard to this particular
+point, is to release the data under an open license. The other point by
+Moles and colleagues concerns the "best" way to release growing datasets.
+Long-term ecological data are one such example. We do not claim to know
+a "best" way to do so, but surely we can do better than the solution
+proposed by Moles and colleagues (not releasing them because it's
+a tricky issue). While it is clear that reelasing the whole dataset
+anew each time additional points are added makes little sense, we see no
+reason why these additional data should not be released (*e.g.*
+annually). Increasing the flexibility in the way data are cited
+would allow authors to reference all datasets (*i.e.* the original one,
+and the eventual additions). Alternatively, much like some preprint
+servers allow several versions of a preprint to appear (each with an
+associated DOI), the additions to a dataset could be viewed as
+"versions" of it. In any case, it is rather clear that a tight
+collaboration between editors and scientists is required if we want to
+improve data sharing practices.
 
 **Acknowledgments**: 
 We thank Karthik Ram for offering us the opportunity to write this paper, and
