@@ -1,0 +1,24 @@
+{
+  "title": "Moving toward a sustainable ecological science: don't let data go to waste!",
+  "type": "article",
+  "text": "DataSharing-MS.md",
+  "description": "An opinion piece on sharing data in ecology",
+  "status": "published",
+  "doi": "10.4033/iee.2013.6b.14.f",
+  "contributing": "no-fork",
+  "license": "CC-BY",
+  "authors": [
+    {
+      "first_name": "Timothée",
+      "last_name": "Poisot"
+    },
+    {
+      "first_name": "Ross",
+      "last_name": "Mounce"
+    },
+    {
+      "first_name": "Dominique"
+      "last_name": "Gravel"
+    }
+  ]
+}
