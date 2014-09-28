@@ -148,8 +148,7 @@ open will grant undue credit. To some extent, journals attempted to qualify
 the work of each contributor by having special sections, indicating who wrote
 the paper, conceived the study, or contributed data or reagents. This is far
 from being anecdotal, as it allows for increased accountability
-[@Weltzin2006]. By making dataset public and citeable, the contribution of data
-will become less and less of a criteria for authorship. Because the datasets
+[@Weltzin2006].  Because the datasets
 can be cited independently from their original paper, they will also
 contribute to the overall scientific impact of the researcher who generated
 them, thus allowing to name as authors only those who analyzed the data.
